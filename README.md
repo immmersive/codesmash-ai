@@ -5,12 +5,12 @@
 
 ## Author: Mario Stopfer
 
-# Intro
+# 🔘 Intro
 
 This repository is the main source for theoretical and technical work on CodeSmash AI.
 It is under development and will grow as more ideas have been worked out.
 
-# Motivation
+# 🔘 Motivation
 
 The current AI landscape is, as judged by the author of this paper, in a state of a bubble.
 Furthermore, the promises of an AGI, cannot be achieved by simply using the LLM approach and scaling it indefinitely.
