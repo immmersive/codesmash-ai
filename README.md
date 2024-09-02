@@ -1,5 +1,5 @@
 
-![][https://github.com/immmersive/codesmash-ai/blob/main/CsAi.png]
+![](https://github.com/immmersive/codesmash-ai/blob/main/CsAi.png)
 
 # CodeSmash AI
 
