@@ -1,3 +1,6 @@
+
+![][https://github.com/immmersive/codesmash-ai/blob/main/CsAi.png]
+
 # CodeSmash AI
 
 ## Author: Mario Stopfer
