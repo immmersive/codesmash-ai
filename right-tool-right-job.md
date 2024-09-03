@@ -1,5 +1,7 @@
 # Use the Right Tool for the Right Job
 
+Here we will use some basic concepts like "Use the Right Tool for the Right Job" which will be a guiding principle while solving problems. This statement tells us that each problem should be solved appropriately. What "appropriately" means depends on the problem itself. So, let us now start with a formal definition.
+
 ### Definition
 **Let:**
 - $P$ be a specific problem that needs to be solved.
