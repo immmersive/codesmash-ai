@@ -18,27 +18,27 @@ This redefinition shifts the focus from the broad practical consequences of an i
 2. **Components**
    - **Idea (I)**: A concept, hypothesis, or proposed solution that is being considered in the context of problem-solving.
    - **Goal (G)**: The specific objective or desired outcome that the problem-solver aims to achieve.
-   - **Utility Function (U)**: A function that measures the usefulness or effectiveness of an idea \( I \) in achieving the goal \( G \).
+   - **Utility Function (U)**: A function that measures the usefulness or effectiveness of an idea <i>I</i> in achieving the goal <i>G</i>.
 
 3. **Utility Function**
-   The utility of an idea \( I \) with respect to a goal \( G \) can be formalized as:
+   The utility of an idea <i>I</i> with respect to a goal <i>G</i> can be formalized as:
 
    \[
-   U(I, G) = f(P_G, P_I)
+   U(I, G) = f(P<sub>G</sub>, P<sub>I</sub>)
    \]
 
    where:
-   - \( P_G \) represents the set of patterns or conditions that define the goal \( G \).
-   - \( P_I \) represents the set of patterns or transformations proposed by the idea \( I \) to achieve \( P_G \).
-   - \( f(P_G, P_I) \) is a function that measures how well the patterns \( P_I \) align with or lead to the patterns \( P_G \), reflecting the effectiveness of the idea in achieving the goal.
+   - <i>P<sub>G</sub></i> represents the set of patterns or conditions that define the goal <i>G</i>.
+   - <i>P<sub>I</sub></i> represents the set of patterns or transformations proposed by the idea <i>I</i> to achieve <i>P<sub>G</sub></i>.
+   - <i>f(P<sub>G</sub>, P<sub>I</sub>)</i> is a function that measures how well the patterns <i>P<sub>I</sub></i> align with or lead to the patterns <i>P<sub>G</sub></i>, reflecting the effectiveness of the idea in achieving the goal.
 
 4. **Evaluation Process**
-   - **Assessment**: Evaluate the idea \( I \) by determining how closely its proposed patterns \( P_I \) align with the desired patterns \( P_G \).
-   - **Comparison**: Compare the utility \( U(I, G) \) of different ideas to identify which one offers the highest utility with respect to the goal.
+   - **Assessment**: Evaluate the idea <i>I</i> by determining how closely its proposed patterns <i>P<sub>I</sub></i> align with the desired patterns <i>P<sub>G</sub></i>.
+   - **Comparison**: Compare the utility <i>U(I, G)</i> of different ideas to identify which one offers the highest utility with respect to the goal.
    - **Selection**: Select the idea with the highest utility as the optimal solution for achieving the goal.
 
 5. **Iterative Refinement**
-   - If the selected idea \( I \) does not fully achieve the goal \( G \), refine or adjust the idea based on feedback and re-evaluate its utility.
+   - If the selected idea <i>I</i> does not fully achieve the goal <i>G</i>, refine or adjust the idea based on feedback and re-evaluate its utility.
    - This process is iterative, allowing for continuous improvement of ideas until the goal is optimally achieved.
 
 #### **Summary**
