@@ -6,7 +6,16 @@ We will start by defining basic concepts.
 4. Patterns
 5. The world as transformation of patterns
 6. Descriptions
-7. Everything can be described as a problem solving exercise
-8. Pragmatic appraoch
-9. Pragmatism as problem solving framework
-10. Problem solving as an optimization problem
+7. Computable Functions as Compressed Descriptions of Events
+8. Abstraction models
+9. Everything can be described as a problem solving exercise
+10. Pragmatic appraoch
+11. Pragmatism as problem solving framework
+12. Problem solving as an optimization problem
+13. Generalization and specialization
+14. Information and search
+15. Algorithms and data structures
+16. The NFL theorem
+17. Abstraction model hierarchy
+18. Models as efficient data structures
+    
