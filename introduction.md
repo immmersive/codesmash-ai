@@ -18,6 +18,7 @@
 16. The NFL theorem
 17. Abstraction model hierarchy
 18. Models as efficient data structures
+19. Inference to the best explanation
     
 # Motivation
 
