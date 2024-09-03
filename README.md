@@ -16,6 +16,9 @@ The current AI landscape, as judged by the author of this paper, is in a state o
 Furthermore, the promises of AGI cannot be achieved by simply using the LLM approach and scaling it indefinitely. 
 A completely different approach is needed, one which will be presented in this paper.
  
-### **Table of Contents: Reworking Pragmatism into a Problem-Solving Framework**
+### **Table of Contents**
 
-We will start with understanding what problems are and how to solve them in general.
+1. (Reworking the Pragmatic Maxim)[/pragmatic-maxim.md]
+    1.1 Original Definition  
+    1.2 New Problem-Solving Approach
+ 
