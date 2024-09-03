@@ -6,7 +6,9 @@ The **Pragmatic Maxim** originally suggests that the meaning of a concept or ide
 #### **New Problem-Solving Approach**
 In our problem-solving framework, we adopt a refined version of the Pragmatic Maxim:
 
-**"Ideas should be evaluated based on how useful they are with respect to the goal we are trying to achieve."**
+```
+Ideas should be evaluated based on how useful they are with respect to the goal we are trying to achieve.
+```
 
 This redefinition shifts the focus from the broad practical consequences of an idea to a more goal-oriented assessment. The central criterion for evaluating an idea is its utility in achieving a specific objective.
  
