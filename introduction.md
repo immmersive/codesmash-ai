@@ -19,3 +19,17 @@ We will start by defining basic concepts.
 17. Abstraction model hierarchy
 18. Models as efficient data structures
     
+Motivation
+
+To create a general problem solving framework
+
+# Philosophical foundations
+
+- Metanotions
+- Pragmatism
+- Ideas
+
+#  Implementations
+
+- Computational system
+- definitions
