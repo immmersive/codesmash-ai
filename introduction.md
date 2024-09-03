@@ -21,7 +21,7 @@
     
 # Motivation
 
-To create a general problem solving framework
+- To create a general problem solving framework
 
 # Philosophical foundations
 
@@ -34,4 +34,4 @@ To create a general problem solving framework
 #  Implementations
 
 - Computational system
-- definitions
+- Definitions
