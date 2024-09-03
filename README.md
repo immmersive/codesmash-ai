@@ -18,7 +18,4 @@ A completely different approach is needed, one which will be presented in this p
  
 ### **Table of Contents**
 
-1. (Reworking the Pragmatic Maxim)[/pragmatic-maxim.md]
-    1.1 Original Definition  
-    1.2 New Problem-Solving Approach
- 
+1. [Reworking the Pragmatic Maxim](/pragmatic-maxim.md)
