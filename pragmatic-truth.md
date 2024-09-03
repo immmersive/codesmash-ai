@@ -1,3 +1,5 @@
+### Reworking the Notion of Pragmatic Truth
+
 ### Old Pragmatic Truth Definition
 
 In traditional Pragmatism, the truth is often seen as what works in practice. The pragmatic theory of truth, famously associated with philosophers like Charles Sanders Peirce, William James, and John Dewey, posits that truth is not a fixed or absolute property. Instead, truth is what proves itself in experience and practice. An idea or belief is true if it works effectively in real-world situations, meaning it helps us navigate and solve problems in a way that leads to satisfactory outcomes.
