@@ -28,6 +28,8 @@ To create a general problem solving framework
 - Metanotions
 - Pragmatism
 - Ideas
+- Problem-solving
+- Limits of human reasoning
 
 #  Implementations
 
