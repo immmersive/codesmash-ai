@@ -19,3 +19,4 @@ A completely different approach is needed, one which will be presented in this p
 ### **Table of Contents**
 
 1. [Reworking the Pragmatic Maxim](/pragmatic-maxim.md)
+2. [Reworking the Notion of Pragmatic Truth](/pragmatic-truth.md)
