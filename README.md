@@ -18,7 +18,7 @@ A completely different approach is needed, one which will be presented in this p
  
 ### **Table of Contents: Reworking Pragmatism into a Problem-Solving Framework**
 
-#### **(1. Introduction)[https://github.com/immmersive/codesmash-ai/blob/main/introduction.md]**
+#### **[1. Introduction](/introduction.md)**
    - 1.1 Overview of Pragmatism and Problem-Solving
    - 1.2 Integration of Pragmatic Concepts into a Formal Framework
 
