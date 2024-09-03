@@ -20,3 +20,4 @@ A completely different approach is needed, one which will be presented in this p
 
 1. [Reworking the Pragmatic Maxim](/pragmatic-maxim.md)
 2. [Reworking the Notion of Pragmatic Truth](/pragmatic-truth.md)
+3. [Reworking the Notion of Pragmatic Meaning](/pragmatic-meaning.md)
