@@ -1,6 +1,6 @@
-We will start by defining basic concepts.
+# Basic Concepts
 
-1. Use the right tool for the right job
+1. Use the right tool for the right job ✅
 2. Ideas should be evaluated based on how useful they are with respect to the goal we are trying to achieve
 3. Ideas
 4. Patterns
@@ -19,7 +19,7 @@ We will start by defining basic concepts.
 17. Abstraction model hierarchy
 18. Models as efficient data structures
     
-Motivation
+# Motivation
 
 To create a general problem solving framework
 
