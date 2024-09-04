@@ -85,10 +85,7 @@ This approach is useful when deciding which tool to use for specific home improv
 
 ### Conclusion
 This formulation helps ensure that the chosen tool is the most efficient and effective for the task at hand, reflecting the practical wisdom of "using the right tool for the right job" in everyday decision-making for home improvement.
-
-
-Here's the revised text with proper formatting using `$` for inline math definitions and ` ```math ` for math blocks:
-
+ 
 ### Given Data
 - **Tools**: Hammer (T1), Saw (T2), Screwdriver (T3)
 - **Effectiveness $E(T_i, P)$**:
