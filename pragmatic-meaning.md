@@ -5,7 +5,7 @@ In traditional Pragmatism, the meaning of an idea, concept, or proposition is de
 
 ### New Definition: Meaning as Utility in Achieving a Goal
 
-In your problem-solving approach, meaning is redefined as the utility or effectiveness of an idea, concept, or proposition in achieving a specific goal. This definition emphasizes that meaning is context-dependent and evaluated based on how well an idea contributes to moving closer to the goal.
+In our problem-solving approach, meaning is redefined as the utility or effectiveness of an idea, concept, or proposition in achieving a specific goal. This definition emphasizes that meaning is context-dependent and evaluated based on how well an idea contributes to moving closer to the goal.
 
 ### Formalizing the Notion of Meaning as Utility
 
