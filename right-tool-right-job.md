@@ -40,8 +40,6 @@ This definition helps embed the practical wisdom of "using the right tool for th
 
 # Example
 
-Here's the revised text with proper formatting using `$` for inline math definitions and ` ```math ` for math blocks:
-
 ### Problem Statement
 **Let:**
 - $P$ be the problem of performing basic home improvement tasks.
