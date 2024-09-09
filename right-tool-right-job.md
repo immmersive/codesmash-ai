@@ -1,6 +1,8 @@
 # Use the Right Tool for the Right Job
 
-Here we will use some basic concepts like "Use the Right Tool for the Right Job" which will be a guiding principle while solving problems. This statement tells us that each problem should be solved appropriately. What "appropriately" means depends on the problem itself. So, let us now start with a formal definition.
+Here we will use some basic concepts like "Use the Right Tool for the Right Job" which will be a guiding principle while solving problems. This statement tells us that each problem should be solved appropriately. What "appropriately" means depends on the problem itself. We can easily justify this metanotion that if we want to solve a problem, we should make sure that it actually gets solved appropriately. Then using appropriate methods are what needs to be used. Otherwise, the problem will not be solved. Therefore, saying that appropriate tools need to be used to solve a specific problem, is simply a restatement of the statement "Use the Right Tool for the Right Job".
+
+So, let us now start with a formal definition.
 
 ### Definition
 **Let:**
