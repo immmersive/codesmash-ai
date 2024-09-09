@@ -20,3 +20,4 @@ A completely different approach is needed, one which will be presented in this p
  
 1. [Introduction](/introduction.md)
 - 1.1 [Use the Right Tool for the Right Job](/right-tool-right-job.md)
+- 1.2 [Justifying Radical Skepticism](/radical-skepticism.md)
