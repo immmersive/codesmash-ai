@@ -1,4 +1,4 @@
-#Jusitfying Radical Skepticism 
+# Jusitfying Radical Skepticism 
 
 Ultimately, justifying thoughts with thoughts is circular reasoning. There’s no reason to think that any idea can ever justify another one. 
 But as soon as you try to justify that notion, you are justifying ideas with Ideas. 
