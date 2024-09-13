@@ -14,7 +14,7 @@ This redefinition shifts the focus from the broad practical consequences of an i
  
 ### **1. Define Variables**
 
-- **$I_i$:** Represents the $i$th idea or concept.
+- **$I_i$:** Represents the $i$-th idea or concept.
 - **$G$:** Represents the goal or objective that you are trying to achieve.
 - **$U(I_i, G)$:** Represents the utility function, which measures how useful idea $I_i$ is with respect to the goal $G$.
 - **$S(I_i)$:** Represents the score or effectiveness of idea $I_i$ in solving the problem.
