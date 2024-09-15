@@ -22,6 +22,7 @@ A completely different approach is needed, one which will be presented in this p
 - 1.1 [Justifying Radical Skepticism](/radical-skepticism.md)
 - 1.2 Limits of Human Reasoning
 - 1.3 [Use the Right Tool for the Right Job](/right-tool-right-job.md)
+- 1.4 Ideas
 
 2. Pragmatic Analysis
 - 2.1 Pragmatic Maxim
