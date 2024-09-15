@@ -1,4 +1,4 @@
-# Jusitfying Radical Skepticism 
+# Justifying Radical Skepticism 
 
 In the following text we are going to justify the position of Radical Skepticism.
 
