@@ -19,6 +19,7 @@
 17. Abstraction model hierarchy
 18. Models as efficient data structures
 19. Inference to the best explanation
+20. Radical skepticism ✅
     
 # Motivation
 
