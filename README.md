@@ -1,20 +1,17 @@
 
 ![](https://github.com/immmersive/codesmash-ai/blob/main/CsAi.png)
 
-# CodeSmash AI
+# Project: CodeSmash AI
 
 ## Author: Mario Stopfer
 
 # 🔘 Intro
 
-This repository serves as the primary source for both theoretical and technical work on CodeSmash AI. 
-It is currently under development and will expand as more ideas are developed.
+This repository serves as the primary source for both theoretical and technical work on CodeSmash AI. It is currently under development and will expand as more ideas are developed. The goal is to primarily develop theoretical foundations for a viable AGI system.
 
 # 🔘 Motivation
 
-The current AI landscape, as judged by the author of this paper, is in a state of a bubble. 
-Furthermore, the promises of AGI cannot be achieved by simply using the LLM approach and scaling it indefinitely. 
-A completely different approach is needed, one which will be presented in this paper.
+The current AI landscape, as judged by the author of this paper, is in a bubble and the promises of AGI, cannot be achieved by simply using the LLM approach and scaling it indefinitely. A completely different approach is needed, one which will be presented in this paper. The approach, requires a much broader and general approach than has been used in the AI research so far.
  
 # 🔘 Table of Contents
  
