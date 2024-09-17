@@ -37,3 +37,43 @@ Most importantly, even the scientific theories of sight which we have constructe
 In the end we are left with only our mind. Since we cannot justify our mind in any way besides our mind, we have no other recourse for thought. Ultimately, justifying thoughts with thoughts is circular reasoning. There’s no reason to think that any idea can ever justify another one. But as soon as you try to justify that notion, you are justifying ideas with Ideas. Thus using circular reasoning. 
 
 In reality, reasoning is completely meaningless because nothing can actually be deduced from something else. The idea that we can derive some idea from a previous one, by deduction, is just an idea which we cannot confirm. Even if we tried to, we would have to use a certain approach, i.e. deduction, which would be circular again. Thus, we are left with the Inference to the Best Explanation as our starting point of the reasoning process, as opposed to some a priori truth. 
+
+# Futility of search for Absolute Truth
+
+Let us now suppose that there is a set I, which contains all ideas which any human mind could possibly conceive. Let us further suppose, that there is a set N, which holds all ideas that human mind is not able to hold. Let us now suppose that there exist actual truths about ultimate reality. How can we then know, that all these ideas, are not in the set N? If they are all in set N, then our search for truth is futile. Furthermore, if the way to even know whether they are in N or not, is in the set N, then we cannot even know whether we can know, whether the search for truth is meaningless or not.
+ 
+
+### **Definitions**:
+- Let $I$ represent the set of all ideas that human minds can conceive.
+- Let $N$ represent the set of all ideas that human minds cannot conceive.
+- Let $T$ represent the set of all true ideas that reflect the ultimate nature of reality.
+
+### **Assumptions**:
+```math
+T \subseteq I \cup N
+```
+(The set of true ideas exists within the union of $I$ and $N$).
+
+Human beings can only access and reason about the ideas in $I$.
+
+### **Argument**:
+
+1. **Possibility of Truth in $N$**:
+   - It is possible that $T \subseteq N$, meaning all true ideas about ultimate reality could reside in $N$, which is inaccessible to human cognition.
+
+2. **Epistemic Limitation**:
+   - If $T \subseteq N$, then no human can access or understand the true nature of reality, since no human mind can access the set $N$ by definition.
+
+3. **Meaninglessness of Truth-Seeking**:
+   - If $T \subseteq N$, then the human search for truth within the set $I$ is **meaningless**, because the actual truth lies entirely outside of what humans can conceive or reason about.
+
+4. **Recursive Skepticism**:
+   - The question of whether $T$ lies within $N$ or $I$ might itself be part of $N$. If the method to determine whether the ultimate truth is in $N$ or $I$ lies within $N$, humans cannot know whether they are even able to **answer** this question.
+
+```math
+\text{Therefore, humans are incapable of knowing whether the search for truth is meaningful or meaningless, because that knowledge may also reside in } N.
+```
+
+### **Conclusion**:
+- **Radical Skepticism**: If the actual truths about ultimate reality lie in $N$, and the very way to know this lies in $N$, then human beings can neither know the truth nor know whether they are capable of knowing the truth. This renders the human pursuit of truth potentially meaningless.
+ 
