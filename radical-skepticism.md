@@ -38,7 +38,7 @@ In the end we are left with only our mind. Since we cannot justify our mind in a
 
 In reality, reasoning is completely meaningless because nothing can actually be deduced from something else. The idea that we can derive some idea from a previous one, by deduction, is just an idea which we cannot confirm. Even if we tried to, we would have to use a certain approach, i.e. deduction, which would be circular again. Thus, we are left with the Inference to the Best Explanation as our starting point of the reasoning process, as opposed to some a priori truth. 
 
-# Futility of search for Absolute Truth
+# Futility of a search for Absolute Truth
 
 Let us now suppose that there is a set I, which contains all ideas which any human mind could possibly conceive. Let us further suppose, that there is a set N, which holds all ideas that human mind is not able to hold. Let us now suppose that there exist actual truths about ultimate reality. How can we then know, that all these ideas, are not in the set N? If they are all in set N, then our search for truth is futile. Furthermore, if the way to even know whether they are in N or not, is in the set N, then we cannot even know whether we can know, whether the search for truth is meaningless or not.
  
