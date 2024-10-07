@@ -46,6 +46,6 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 4.6 - [Metrics](/metrics.md)
 
 ## 5. - Implementation
-- 5.1 - Formulating the Problem
+- 5.1 - [Formulating the Problem](/formulating-problem.md)
 
 
