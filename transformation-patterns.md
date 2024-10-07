@@ -34,7 +34,7 @@ In the pattern-based framework, we define everything in the world as patterns, a
 
 - Constraints: The rules, laws, or limitations that govern which pattern transformations are possible.
 
-Here, the optimization problem involves finding the transformation TT that will convert the initial pattern P0P0​ into the optimal pattern P∗P∗, while satisfying all constraints CC.
+Here, the optimization problem involves finding the transformation $T$ that will convert the initial pattern $P0$ into the optimal pattern $P∗$, while satisfying all constraints $C$.
 
 Mathematically, this can be expressed as:
 
@@ -48,9 +48,9 @@ Where $U(T(P_0,P))U(T(P_0​,P))$ is the utility of transforming the initial pat
 
 Now, let's integrate these two concepts:
 
-Ideas as Optimizers of Patterns: In your framework, an idea is a proposal for how to transform a pattern from an initial state P0P0​ to a desired state PTPT​. The idea II that successfully transforms the pattern into the optimal pattern P∗P∗ is the one that solves the problem most effectively.
+Ideas as Optimizers of Patterns: In your framework, an idea is a proposal for how to transform a pattern from an initial state $P_0$ to a desired state $P_T$. The idea II that successfully transforms the pattern into the optimal pattern $P∗$ is the one that solves the problem most effectively.
 
-Truth as the Optimal Pattern: The truth, in this model, is defined as the optimal pattern P∗P∗ that results from applying the best idea I∗I∗. This optimal pattern represents the best possible transformation that aligns with the constraints and achieves the goal.
+Truth as the Optimal Pattern: The truth, in this model, is defined as the optimal pattern $P∗$ that results from applying the best idea $I∗$. This optimal pattern represents the best possible transformation that aligns with the constraints and achieves the goal.
 
 ## Describing the Process:
 
@@ -58,13 +58,13 @@ Here’s the entire process described holistically:
 
 Start with a Problem: The problem is represented as an initial pattern P0P0​, which you want to transform into a solution PTPT​.
 
-Generate Ideas: Multiple ideas I1,I2,…,InI1​,I2​,…,In​ are proposed, each representing a different way to transform P0P0​ into PTPT​.
+Generate Ideas: Multiple ideas $I_1, I_2, ..., I_n, I_1​, I_2​, ..., I_n$​ are proposed, each representing a different way to transform $P_0$​ into $P_T$.
 
 Evaluate Ideas as Optimization Problems: Each idea is evaluated based on how well it optimizes the transformation, taking into account the goal and the constraints. This evaluation is an optimization problem where the objective is to maximize the utility of the transformation.
 
-Identify the Optimal Pattern: The idea that yields the optimal pattern P∗P∗, the one that best solves the problem, is selected. This pattern represents the truth in your model.
+Identify the Optimal Pattern: The idea that yields the optimal pattern $P∗$, the one that best solves the problem, is selected. This pattern represents the truth in your model.
 
-Truth as the Optimal Solution: The optimal pattern P∗P∗ is considered the truth because it is the result of the best possible transformation, given the constraints and the goal. This pattern is the most effective solution to the problem.
+Truth as the Optimal Solution: The optimal pattern $P∗$ is considered the truth because it is the result of the best possible transformation, given the constraints and the goal. This pattern is the most effective solution to the problem.
 
 # Summary
 
