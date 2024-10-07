@@ -34,7 +34,7 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 3.2 - The world as transformation of Patterns
 - 3.3 - Computable Functions as Compressed Descriptions of Events
 - 3.4 - Abstraction models
-- 3.5 - Generalization and Specialization
+- 3.5 - [Generalization and Specialization](/generalization-specialization.md)
 - 3.6 - Divergence and Convergence
 
 ## 4. - Information
