@@ -15,8 +15,10 @@ Constraints: The resources available, the context of the problem, and any limita
 In this optimization problem, you are essentially trying to find the idea I∗I∗ that yields the highest utility U(I)U(I) with respect to the goal GG, given the constraints CC.
 
 Mathematically, this can be expressed as:
-Maximize U(I) subject to constraints C
-Maximize U(I) subject to constraints C
+
+```math
+\text{Maximize U(I) subject to constraints C}
+```
 
 The idea that maximizes the utility is considered the most "true" or valid in this context because it is the optimal solution to the problem.
 
@@ -24,18 +26,23 @@ The idea that maximizes the utility is considered the most "true" or valid in th
 
 In the pattern-based framework, we define everything in the world as patterns, and solving a problem involves transforming patterns from an initial state to a desired state. This transformation can also be framed as an optimization problem:
 
-Objective: Identify the optimal pattern P∗P∗ that solves the problem.
-Initial State: The current pattern P0P0​ that represents the problem or situation as it currently exists.
-Desired State: The target pattern PTPT​ that represents the solution to the problem.
-Constraints: The rules, laws, or limitations that govern which pattern transformations are possible.
+- Objective: Identify the optimal pattern $P∗$ that solves the problem.
+
+- Initial State: The current pattern $P_0$ that represents the problem or situation as it currently exists.
+
+- Desired State: The target pattern $P_T$ that represents the solution to the problem.
+
+- Constraints: The rules, laws, or limitations that govern which pattern transformations are possible.
 
 Here, the optimization problem involves finding the transformation TT that will convert the initial pattern P0P0​ into the optimal pattern P∗P∗, while satisfying all constraints CC.
 
 Mathematically, this can be expressed as:
-P∗=arg maxP U(T(P0,P)) subject to constraints C
-P∗=arg maxP​U(T(P0​,P)) subject to constraints C
 
-Where U(T(P0,P))U(T(P0​,P)) is the utility of transforming the initial pattern P0P0​ into the pattern PP. The pattern P∗P∗ that maximizes this utility is the optimal solution, and therefore, in your model, it is considered the "truth."
+```math
+\text{P∗=arg maxP​U(T(P0​,P)) subject to constraints C}
+```
+
+Where $U(T(P_0,P))U(T(P_0​,P))$ is the utility of transforming the initial pattern $P_0$ into the pattern $P_P$. The pattern $P∗$ that maximizes this utility is the optimal solution, and therefore, in your model, it is considered the "truth."
 
 ## Integrating the Two Concepts:
 
