@@ -88,8 +88,20 @@ $T^*$ is the most suitable solution, based on the level of generalization or spe
 
 ## Algorithm Overview
 
-Input: Initial problem $P$, constraints, and requirements.
-Decision: Apply $f(P)$ to determine whether to generalize $G(P)$ or specialize $S(P)$.
-Modify Problem: Adjust the problem scope using the selected strategy (generalization or specialization).
-Search Solutions: Identify potential solutions and evaluate them based on their effectiveness and cost.
-Output: Return the optimal solution $T^*$ for the problem.
+- Input: Initial problem $P$, constraints, and requirements.
+  
+- Decision: Apply $f(P)$ to determine whether to generalize $G(P)$ or specialize $S(P)$.
+  
+- Modify Problem: Adjust the problem scope using the selected strategy (generalization or specialization).
+  
+- Search Solutions: Identify potential solutions and evaluate them based on their effectiveness and cost.
+  
+- Output: Return the optimal solution $T^*$ for the problem.
+
+# Example
+
+- Initial Problem: A company needs chairs for their office. The initial problem is too broad.
+
+- Specialization: Apply $S(P)$ to narrow the problem down to "ergonomic office chairs" for specific work environments.
+
+- Solution Search: Evaluate potential ergonomic chairs based on their effectiveness in improving employee comfort and productivity and their cost.
