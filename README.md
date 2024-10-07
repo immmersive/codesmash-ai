@@ -30,7 +30,7 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 2.5 - [Pragmatic Meaning](/pragmatic-meaning.md)
 
 ## 3. - Descriptions
-- 3.1 - Patterns
+- 3.1 - [Patterns](/patterns.md)
 - 3.2 - The world as transformation of Patterns
 - 3.3 - Computable Functions as Compressed Descriptions of Events
 - 3.4 - Abstraction models
