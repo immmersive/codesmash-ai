@@ -11,7 +11,7 @@ We propose that these two strategies—generalization and specialization—can b
 This approach could be useful in many fields, including product design, engineering, and artificial intelligence. By finding the right balance between generalization and specialization, the algorithm could help generate solutions that solve specific problems while also offering broader insights across different areas.
 
 
-# Formalization of Generalization and Specialization
+# Formalization
 
 ## Definitions
 
