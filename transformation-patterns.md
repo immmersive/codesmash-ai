@@ -39,7 +39,7 @@ Here, the optimization problem involves finding the transformation TT that will 
 Mathematically, this can be expressed as:
 
 ```math
-\text{P∗=arg maxP​U(T(P0​,P)) subject to constraints C}
+\text{P∗} = arg max_P U(T(P_0​, P)) \text{ subject to constraints C }
 ```
 
 Where $U(T(P_0,P))U(T(P_0​,P))$ is the utility of transforming the initial pattern $P_0$ into the pattern $P_P$. The pattern $P∗$ that maximizes this utility is the optimal solution, and therefore, in your model, it is considered the "truth."
