@@ -68,7 +68,7 @@ Criteria: $f(P)$ is determined based on factors such as:
 - Each solution $T_i \in T$ is evaluated based on its suitability score for the modified problem:
 
 ```math
-S(T_i​, P) = \frac{E(T_i​ ,P)​}{C(T_i​)} 
+S(T_i​, P) = \frac{E(T_i​, P)​}{C(T_i​)} 
 ```
  
  
@@ -78,8 +78,12 @@ where $E(T_i, P)$ is the effectiveness of solution $T_i$ in solving the problem 
 ### Select Optimal Solution
 
 Choose the solution $T^*$ that maximizes the suitability score:
-T∗=arg⁡max⁡Ti∈TS(Ti,P)
-T∗=argTi​∈Tmax​S(Ti​,P)
+
+```math
+T∗ = \arg\max_{Ti_​∈T} S(T_i, P)
+```
+ 
+
 $T^*$ is the most suitable solution, based on the level of generalization or specialization applied to $P$.
 
 ## Algorithm Overview
