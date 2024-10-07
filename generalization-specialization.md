@@ -15,13 +15,13 @@ This approach could be useful in many fields, including product design, engineer
 
 ## Definitions
 
-Let $P$ represent a specific problem that needs to be solved.
+- Let $P$ represent a specific problem that needs to be solved.
 
-Let $G(P)$ represent the generalization of problem $P$, where the scope of the problem is expanded to cover a broader set of cases.
+- Let $G(P)$ represent the generalization of problem $P$, where the scope of the problem is expanded to cover a broader set of cases.
 
-Let $S(P)$ represent the specialization of problem $P$, where the scope is narrowed to focus on more specific instances.
+- Let $S(P)$ represent the specialization of problem $P$, where the scope is narrowed to focus on more specific instances.
 
-Let $T$ represent the set of possible solutions or tools available for solving $P$, $G(P)$, or $S(P)$.
+- Let $T$ represent the set of possible solutions or tools available for solving $P$, $G(P)$, or $S(P)$.
 
 $T = {T_1, T_2, \dots, T_n}$ where each $T_i$ is a potential solution.
 
@@ -29,8 +29,9 @@ $T = {T_1, T_2, \dots, T_n}$ where each $T_i$ is a potential solution.
 
 ### Identify Problem Scope
 
-Input: A problem $P$ with an initial scope.
-Goal: Evaluate whether $P$ is better approached by generalization or specialization based on its constraints and requirements.
+- Input: A problem $P$ with an initial scope.
+
+- Goal: Evaluate whether $P$ is better approached by generalization or specialization based on its constraints and requirements.
 
 ### Determine Generalization or Specialization
 
@@ -43,25 +44,33 @@ f(P) =
 \text{S(P)}, & \text{ if specialization is more appropriate }
 \end{cases}
 ```
- 
 
 Criteria: $f(P)$ is determined based on factors such as:
-Complexity of the problem.
-Breadth of applicability required.
-Level of detail needed for the solution.
+
+- Complexity of the problem.
+
+- Breadth of applicability required.
+
+- Level of detail needed for the solution.
 
 ### Apply Generalization or Specialization
  
-If $f(P) = G(P)$, expand the scope of the problem to create a more general version.
-If $f(P) = S(P)$, narrow the scope of the problem to focus on more specific details.
+- If $f(P) = G(P)$, expand the scope of the problem to create a more general version.
+
+- If $f(P) = S(P)$, narrow the scope of the problem to focus on more specific details.
 
 ### Solution Search
 
-Input: The adjusted problem, $P$, $G(P)$, or $S(P)$.
-Output: A set of potential solutions $T$ that can address the problem.
-Each solution $T_i \in T$ is evaluated based on its suitability score for the modified problem:
+- Input: The adjusted problem, $P$, $G(P)$, or $S(P)$.
+
+- Output: A set of potential solutions $T$ that can address the problem.
+
+- Each solution $T_i \in T$ is evaluated based on its suitability score for the modified problem:
+
+```math
 S(Ti,P)=E(Ti,P)C(Ti)
 S(Ti​,P)=C(Ti​)E(Ti​,P)​ where $E(T_i, P)$ is the effectiveness of solution $T_i$ in solving the problem and $C(T_i)$ is the cost (or resource requirement) for applying $T_i$.
+```
 
 ### Select Optimal Solution
 
