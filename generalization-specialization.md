@@ -27,35 +27,48 @@ $T = {T_1, T_2, \dots, T_n}$ where each $T_i$ is a potential solution.
 
 ## Problem-Solving Process
 
-Identify Problem Scope:
-    Input: A problem $P$ with an initial scope.
-    Goal: Evaluate whether $P$ is better approached by generalization or specialization based on its constraints and requirements.
+### Identify Problem Scope
 
-Determine Generalization or Specialization:
-    Define an algorithmic function $f(P)$ that, based on the context and requirements of $P$, decides whether to apply generalization $G(P)$ or specialization $S(P)$:
-    f(P)={G(P),if generalization is more appropriateS(P),if specialization is more appropriate
-    f(P)={G(P),S(P),​if generalization is more appropriateif specialization is more appropriate​
-    Criteria: $f(P)$ is determined based on factors such as:
-        Complexity of the problem.
-        Breadth of applicability required.
-        Level of detail needed for the solution.
+Input: A problem $P$ with an initial scope.
+Goal: Evaluate whether $P$ is better approached by generalization or specialization based on its constraints and requirements.
 
-Apply Generalization or Specialization:
-    If $f(P) = G(P)$, expand the scope of the problem to create a more general version.
-    If $f(P) = S(P)$, narrow the scope of the problem to focus on more specific details.
+### Determine Generalization or Specialization
 
-Solution Search:
-    Input: The adjusted problem, $P$, $G(P)$, or $S(P)$.
-    Output: A set of potential solutions $T$ that can address the problem.
-    Each solution $T_i \in T$ is evaluated based on its suitability score for the modified problem:
-    S(Ti,P)=E(Ti,P)C(Ti)
-    S(Ti​,P)=C(Ti​)E(Ti​,P)​ where $E(T_i, P)$ is the effectiveness of solution $T_i$ in solving the problem and $C(T_i)$ is the cost (or resource requirement) for applying $T_i$.
+Define an algorithmic function $f(P)$ that, based on the context and requirements of $P$, decides whether to apply generalization $G(P)$ or specialization $S(P)$
 
-Select Optimal Solution:
-    Choose the solution $T^*$ that maximizes the suitability score:
-    T∗=arg⁡max⁡Ti∈TS(Ti,P)
-    T∗=argTi​∈Tmax​S(Ti​,P)
-    $T^*$ is the most suitable solution, based on the level of generalization or specialization applied to $P$.
+```math
+f(P) = 
+\begin{cases} 
+\text{G(P)}, & \text{ if generalization is more appropriate }  \\
+\text{S(P)}, & \text{ if specialization is more appropriate }
+\end{cases}
+```
+ 
+
+Criteria: $f(P)$ is determined based on factors such as:
+Complexity of the problem.
+Breadth of applicability required.
+Level of detail needed for the solution.
+
+### Apply Generalization or Specialization
+ 
+If $f(P) = G(P)$, expand the scope of the problem to create a more general version.
+If $f(P) = S(P)$, narrow the scope of the problem to focus on more specific details.
+
+### Solution Search
+
+Input: The adjusted problem, $P$, $G(P)$, or $S(P)$.
+Output: A set of potential solutions $T$ that can address the problem.
+Each solution $T_i \in T$ is evaluated based on its suitability score for the modified problem:
+S(Ti,P)=E(Ti,P)C(Ti)
+S(Ti​,P)=C(Ti​)E(Ti​,P)​ where $E(T_i, P)$ is the effectiveness of solution $T_i$ in solving the problem and $C(T_i)$ is the cost (or resource requirement) for applying $T_i$.
+
+### Select Optimal Solution
+
+Choose the solution $T^*$ that maximizes the suitability score:
+T∗=arg⁡max⁡Ti∈TS(Ti,P)
+T∗=argTi​∈Tmax​S(Ti​,P)
+$T^*$ is the most suitable solution, based on the level of generalization or specialization applied to $P$.
 
 ## Algorithm Overview
 
