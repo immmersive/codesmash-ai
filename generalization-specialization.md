@@ -68,9 +68,12 @@ Criteria: $f(P)$ is determined based on factors such as:
 - Each solution $T_i \in T$ is evaluated based on its suitability score for the modified problem:
 
 ```math
-S(Ti,P)=E(Ti,P)C(Ti)
-S(Ti​,P)=C(Ti​)E(Ti​,P)​ where $E(T_i, P)$ is the effectiveness of solution $T_i$ in solving the problem and $C(T_i)$ is the cost (or resource requirement) for applying $T_i$.
+S(T_i​, P) = \frac{E(T_i​ ,P)​}{C(T_i​)} 
 ```
+ 
+ 
+where $E(T_i, P)$ is the effectiveness of solution $T_i$ in solving the problem and $C(T_i)$ is the cost (or resource requirement) for applying $T_i$.
+
 
 ### Select Optimal Solution
 
