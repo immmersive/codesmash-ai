@@ -23,7 +23,7 @@ This approach could be useful in many fields, including product design, engineer
 
 - Let $T$ represent the set of possible solutions or tools available for solving $P$, $G(P)$, or $S(P)$.
 
-$T = {T_1, T_2, \dots, T_n}$ where each $T_i$ is a potential solution.
+- Let $T = {T_1, T_2, \dots, T_n}$ where each $T_i$ is a potential solution.
 
 ## Problem-Solving Process
 
