@@ -6,11 +6,13 @@ Let's break down the process step by step, integrating your new pragmatic maxim 
 
 ## The Pragmatic Maxim as an Optimization Problem
 
-Your reworked pragmatic maxim states that ideas should be evaluated based on how useful they are with respect to the goal we are trying to achieve. This can be understood as an optimization problem where:
+The new Pragmatic Maxim states that ideas should be evaluated based on how useful they are with respect to the goal we are trying to achieve. This can be understood as an optimization problem where:
 
-Objective: Maximize the utility of an idea concerning the goal.
-Variables: The different ideas or approaches that could potentially solve the problem.
-Constraints: The resources available, the context of the problem, and any limitations on what is feasible.
+- Objective: Maximize the utility of an idea concerning the goal.
+
+- Variables: The different ideas or approaches that could potentially solve the problem.
+
+- Constraints: The resources available, the context of the problem, and any limitations on what is feasible.
 
 In this optimization problem, you are essentially trying to find the idea I∗I∗ that yields the highest utility U(I)U(I) with respect to the goal GG, given the constraints CC.
 
@@ -48,9 +50,9 @@ Where $U(T(P_0,P))U(T(P_0​,P))$ is the utility of transforming the initial pat
 
 Now, let's integrate these two concepts:
 
-Ideas as Optimizers of Patterns: In your framework, an idea is a proposal for how to transform a pattern from an initial state $P_0$ to a desired state $P_T$. The idea II that successfully transforms the pattern into the optimal pattern $P∗$ is the one that solves the problem most effectively.
+- Ideas as Optimizers of Patterns: In your framework, an idea is a proposal for how to transform a pattern from an initial state $P_0$ to a desired state $P_T$. The idea II that successfully transforms the pattern into the optimal pattern $P∗$ is the one that solves the problem most effectively.
 
-Truth as the Optimal Pattern: The truth, in this model, is defined as the optimal pattern $P∗$ that results from applying the best idea $I∗$. This optimal pattern represents the best possible transformation that aligns with the constraints and achieves the goal.
+- Truth as the Optimal Pattern: The truth, in this model, is defined as the optimal pattern $P∗$ that results from applying the best idea $I∗$. This optimal pattern represents the best possible transformation that aligns with the constraints and achieves the goal.
 
 ## Describing the Process
 
