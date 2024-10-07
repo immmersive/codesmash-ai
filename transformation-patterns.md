@@ -34,7 +34,7 @@ In the pattern-based framework, we define everything in the world as patterns, a
 
 - Constraints: The rules, laws, or limitations that govern which pattern transformations are possible.
 
-Here, the optimization problem involves finding the transformation $T$ that will convert the initial pattern $P0$ into the optimal pattern $P∗$, while satisfying all constraints $C$.
+Here, the optimization problem involves finding the transformation $T$ that will convert the initial pattern $P_0$ into the optimal pattern $P∗$, while satisfying all constraints $C$.
 
 Mathematically, this can be expressed as:
 
@@ -56,15 +56,15 @@ Truth as the Optimal Pattern: The truth, in this model, is defined as the optima
 
 Here’s the entire process described holistically:
 
-Start with a Problem: The problem is represented as an initial pattern P0P0​, which you want to transform into a solution PTPT​.
+- Start with a Problem: The problem is represented as an initial pattern $P_0$, which you want to transform into a solution $P_T$​.
 
-Generate Ideas: Multiple ideas $I_1, I_2, ..., I_n, I_1​, I_2​, ..., I_n$​ are proposed, each representing a different way to transform $P_0$​ into $P_T$.
+- Generate Ideas: Multiple ideas $I_1, I_2, ..., I_n, I_1​, I_2​, ..., I_n$​ are proposed, each representing a different way to transform $P_0$​ into $P_T$.
 
-Evaluate Ideas as Optimization Problems: Each idea is evaluated based on how well it optimizes the transformation, taking into account the goal and the constraints. This evaluation is an optimization problem where the objective is to maximize the utility of the transformation.
+- Evaluate Ideas as Optimization Problems: Each idea is evaluated based on how well it optimizes the transformation, taking into account the goal and the constraints. This evaluation is an optimization problem where the objective is to maximize the utility of the transformation.
 
-Identify the Optimal Pattern: The idea that yields the optimal pattern $P∗$, the one that best solves the problem, is selected. This pattern represents the truth in your model.
+- Identify the Optimal Pattern: The idea that yields the optimal pattern $P∗$, the one that best solves the problem, is selected. This pattern represents the truth in your model.
 
-Truth as the Optimal Solution: The optimal pattern $P∗$ is considered the truth because it is the result of the best possible transformation, given the constraints and the goal. This pattern is the most effective solution to the problem.
+- Truth as the Optimal Solution: The optimal pattern $P∗$ is considered the truth because it is the result of the best possible transformation, given the constraints and the goal. This pattern is the most effective solution to the problem.
 
 # Summary
 
