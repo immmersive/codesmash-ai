@@ -20,8 +20,11 @@ Patterns with high KC (e.g., 01101001) are common, so R(Pi)R(Pi​) will be low.
 ## Incorporating Rarity into the Metric:
 
 We update the metric to reflect the difficulty of discovering rare patterns:
-D(O)=∑i=1nf(Pi)⋅(R(Pi)⋅K(Pi)⋅H(Pi)⋅T(Pi))+∑i=1n∑j=1nI(Pi,Pj)
-D(O)=i=1∑n​f(Pi​)⋅(R(Pi​)⋅K(Pi​)⋅H(Pi​)⋅T(Pi​))+i=1∑n​j=1∑n​I(Pi​,Pj​)
+
+```math
+D(O) = \sum_{i=1}^{n} =f(P_i​) ⋅ ( R(Pi_​) ⋅ K(Pi_​) ⋅ H(P_i​) ⋅ T(P_i​) ) + \sum_{i=1}^{n}\sum_{j=1}^{n} I(P_i​, P_j​)
+
+```
 
 Where:
 
