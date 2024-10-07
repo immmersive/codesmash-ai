@@ -1,8 +1,6 @@
 # Transformation of Patterns
 
-The materialist conception of the world, particularly the idea that "the world is just matter in motion," is a philosophical perspective that emphasizes the physical and tangible aspects of reality. According to this view, everything that exists, including all phenomena and processes, can ultimately be explained by the interactions and movements of matter.
-
-Let's break down the process step by step, integrating the new pragmatic maxim and the pattern-based framework into an optimization problem.
+The materialist conception of the world, particularly the idea that "the world is just matter in motion," is a philosophical perspective that emphasizes the physical and tangible aspects of reality. According to this view, everything that exists, including all phenomena and processes, can ultimately be explained by the interactions and movements of matter. Let's break down the process step by step, integrating the new pragmatic maxim and the pattern-based framework into an optimization problem.
 
 ## The Pragmatic Maxim as an Optimization Problem
 
@@ -14,9 +12,7 @@ The new Pragmatic Maxim states that ideas should be evaluated based on how usefu
 
 - Constraints: The resources available, the context of the problem, and any limitations on what is feasible.
 
-In this optimization problem, you are essentially trying to find the idea I∗I∗ that yields the highest utility U(I)U(I) with respect to the goal GG, given the constraints CC.
-
-Mathematically, this can be expressed as:
+In this optimization problem, you are essentially trying to find the idea $I∗$ that yields the highest utility $U(I)$ with respect to the goal $G$, given the constraints $C$. Mathematically, this can be expressed as:
 
 ```math
 \text{Maximize U(I) subject to constraints C}
@@ -36,9 +32,7 @@ In the pattern-based framework, we define everything in the world as patterns, a
 
 - Constraints: The rules, laws, or limitations that govern which pattern transformations are possible.
 
-Here, the optimization problem involves finding the transformation $T$ that will convert the initial pattern $P_0$ into the optimal pattern $P∗$, while satisfying all constraints $C$.
-
-Mathematically, this can be expressed as:
+Here, the optimization problem involves finding the transformation $T$ that will convert the initial pattern $P_0$ into the optimal pattern $P∗$, while satisfying all constraints $C$. Mathematically, this can be expressed as:
 
 ```math
 \text{P∗} = arg max_P U(T(P_0​, P)) \text{ subject to constraints C }
