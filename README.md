@@ -20,7 +20,7 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 1.2 - Limits of Human Reasoning
 - 1.3 - Inference to the Best Explanation
 - 1.4 - [Use the Right Tool for the Right Job](/right-tool-right-job.md)
-- 1.5 - Ideas
+- 1.5 - [Ideas](/ideas.md)
 
 ## 2. - Pragmatic Analysis
 - 2.1 - Pragmatism as a Problem-solving Framework
