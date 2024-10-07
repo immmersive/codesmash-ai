@@ -65,12 +65,11 @@ Criteria: $f(P)$ is determined based on factors such as:
 
 - Output: A set of potential solutions $T$ that can address the problem.
 
-- Each solution $T_i \in T$ is evaluated based on its suitability score for the modified problem:
+Each solution $T_i \in T$ is evaluated based on its suitability score for the modified problem:
 
 ```math
 S(T_i​, P) = \frac{E(T_i​, P)​}{C(T_i​)} 
 ```
- 
  
 where $E(T_i, P)$ is the effectiveness of solution $T_i$ in solving the problem and $C(T_i)$ is the cost (or resource requirement) for applying $T_i$.
 
