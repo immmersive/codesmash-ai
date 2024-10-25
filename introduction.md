@@ -1,3 +1,12 @@
+# Introduction
+
+1. We need to create a problem-solving method.
+2. This needs to be a general problem-solving method.
+3. Once we have that, we can formalize it.
+4. Then it’s easy to implement it on a computer.
+5. We then set the system to continually learn and improve itself.
+6. With this, we should get an AGI system.
+
 # Basic Concepts
 
 1. Use the right tool for the right job ✅
