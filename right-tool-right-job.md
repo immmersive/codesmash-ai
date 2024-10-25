@@ -18,7 +18,9 @@ We can now proceed to transform this statement into a tautology. We shall start 
 
 Which we formalize as
 
-$(T(x)∧J(y))→R(x,y)$
+```math
+(T(x) ∧ J(y)) → R(x,y)
+```
 
 Where: 
 
