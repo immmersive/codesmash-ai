@@ -28,7 +28,27 @@ Where:
   
 - $R(x,y)$ means "Using tool $x$ for job $y$ results in the right outcome."
 
-### Definition
+
+To make this a **tautology**, we can define $R(x,y)$ in terms of $T(x)$ and $J(y)$. Specifically, we define $R(x,y)$ such that it **must** be true whenever $T(x)∧J(y)$ is true. This way, the statement becomes true by definition.
+
+```math
+R(x,y)⟺(T(x)∧J(y))
+```
+
+We now formalize the entire statement as a logical tautology:
+
+```math
+(T(x)∧J(y))→((T(x)∧J(y))→R(x,y))
+```
+
+This is a tautology because:
+
+- The **implication** $(T(x)∧J(y))→R(x,y)$ is true by definition (as $R(x,y)$ is defined to be true whenever $T(x)∧J(y)$ is true).
+
+- The overall statement $(T(x)∧J(y))→((T(x)∧J(y))→R(x,y))$ is always true because it formalizes the idea that using the right tool for the right job leads to the right result.
+
+# Usage
+
 **Let:**
 - $P$ be a specific problem that needs to be solved.
 - $T = \{T_1, T_2, \ldots, T_n\}$ be the set of available tools or methods that can be applied to solve $P$.
