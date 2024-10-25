@@ -12,10 +12,19 @@ So, let us now start with formalizing this statement into an axiom. We shall fol
 
 - Let $R(x,y)$ represent "Using tool $x$ for job $y$ gives the right result."
  
+We can now proceed to transform this statement into a tautology. We shall start with making sure that using the right tool for the right job, always implies that you get the correct outcome. Thus, we shall use the following statement.
+
+> "Use the right tool for the right job, and you will always get the right result."
+
+Which we formalize as
 
 $(T(x)∧J(y))→R(x,y)$
 
+Where: 
 
+- $T(x) ∧ J(y)$ means "Tool $x$ is the right tool and Job $y$ is the right job."
+  
+- $R(x,y)$ means "Using tool $x$ for job $y$ results in the right outcome."
 
 ### Definition
 **Let:**
