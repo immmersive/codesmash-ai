@@ -30,13 +30,13 @@ The way we have added information by finding the specific pattern is by removing
 
 Thus, our goal is to describe everything using simple computable functions, so that we can predict everything around us, and that we can do it efficiently. The first goes well with the idea that we need predictions in order in order to gain information based on which we will act and to use less resources and the second goes well with the idea that we need less resources because we always need more in the future.
 
-# Data Structures as Compressed Description of States. 
+# Data Structures as Compressed Description of States
 
 States in this context ate obviously just patterns. Data structures are patterns to which algorithms are applied, in order to produce certain results. In other words, functions are applied to input patterns and as a result we have output patterns. In the physical world, there are certain patterns, mostly with low KC, which will efficiently give us the result we want, that we would not be able to get had we not had this structure, i.e. the pattern. Thus, we can say that we are abstracting away the unneccessary patterns from the original material resource in order for the process, i.e. the algorithm to efficiently give us the result. In other words, a data structure is an efficient pattern which allows an efficient execution of an algorithm.
 
 It can thus be said that its an abstraction over all possible operations which could be executed on certain physical entities. We simply form it in such a way that once an algorithm is executed, it will gives us the most efficient way of getting us to the result we wanted from the original physical entities.
 
-# Algorithms as Compressed Description of State Changes. 
+# Algorithms as Compressed Description of State Changes
 
 Algorithms are compressed descriptions of events, that is pattern transformations, which preserve the original information and are thus easily computable and will give you the same information as the intial larger description, which is more efficient. Data Structures are compressed patterns which can be decompressed using algorithms. The unpacking gives us wanted information. The transformation, that is, the unpacking of the data structure is the execution of the algorithm. Data structures are then simply compressed information, while algorithms are the information which tell us how to unpack the data structure and get the compressed information. The reason why we package it in the first place is to make it easier to manipulate because there is less information to deal with and because this also makes the transformation more efficient.
 
