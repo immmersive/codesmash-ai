@@ -1,6 +1,6 @@
 # Use the Right Tool for the Right Job
 
-Since our goal is to be able to solve any problem, we should create a guiding principle which will always steer us in teh right direction. The statement, which by definition does that, is the following one.
+Since our goal is to be able to solve any problem, we should create a guiding principle which will always steer us in the right direction. The statement, which by definition does that, is the following one.
 
 > Use the right tool for the right job
 
