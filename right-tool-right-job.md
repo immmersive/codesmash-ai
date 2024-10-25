@@ -1,6 +1,17 @@
 # Use the Right Tool for the Right Job
 
-Here we will use some basic concepts like "Use the Right Tool for the Right Job" which will be a guiding principle while solving problems. This statement tells us that each problem should be solved appropriately. What "appropriately" means depends on the problem itself. We can easily justify this metanotion that if we want to solve a problem, we should make sure that it actually gets solved appropriately. Then using appropriate methods are what needs to be used. Otherwise, the problem will not be solved. Therefore, saying that appropriate tools need to be used to solve a specific problem, is simply a restatement of the statement "Use the Right Tool for the Right Job".
+Since our goal is to be able to solve any problem, we should create a guiding principle which will always steer us in teh right direction. The statement, which by definition does that, is the following one.
+
+> Use the right tool for the right job
+
+If we analyze this statement closer, we will notice that it is advising us to use certain tools, or methods to get the job done, i.e. solve a problem. But it is telling us to use the appropriate tools, i.e. appropriate methods to do so. The appropriate methods in question here, are by definition, the ones which will indeed get the job done,t hat is, solve teh problem. It should now be noted that if we actually know what those methods are and what the appropriate problems are, then if we stick to this statement while we are solving problems, then we can by definition solve any problem. The only thing that is now left for us to find out, are the following
+
+- The correct tools (methods)
+- The correct jobs (problem)
+- The correct goal
+
+So, by finding out which tool (method) works well on which job (solves a problem), we can always be sure that when we use them together, we will actually solve the problem. The only thing left for us to add here, is the goal. The statement actually implies that if you use the right tool for the right job, by definition you will reach your goal, meaning, you will get an appropriate result. This is clearly implied, even though it is not stated explicitly.
+
 
 # Formalization
 
