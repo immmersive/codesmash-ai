@@ -1,10 +1,21 @@
 # Use the Right Tool for the Right Job
 
-Here we will use some basic concepts like "Use the Right Tool for the Right Job" which will be a guiding principle while solving problems. This statement tells us that each problem should be solved appropriately. What "appropriately" means depends on the problem itself. We can easily justify this metanotion that if we want to solve a problem, we should make sure that it actually gets solved appropriately. 
+Here we will use some basic concepts like "Use the Right Tool for the Right Job" which will be a guiding principle while solving problems. This statement tells us that each problem should be solved appropriately. What "appropriately" means depends on the problem itself. We can easily justify this metanotion that if we want to solve a problem, we should make sure that it actually gets solved appropriately. Then using appropriate methods are what needs to be used. Otherwise, the problem will not be solved. Therefore, saying that appropriate tools need to be used to solve a specific problem, is simply a restatement of the statement "Use the Right Tool for the Right Job".
 
-Then using appropriate methods are what needs to be used. Otherwise, the problem will not be solved. Therefore, saying that appropriate tools need to be used to solve a specific problem, is simply a restatement of the statement "Use the Right Tool for the Right Job".
+# Formalization
 
-So, let us now start with a formal definition.
+So, let us now start with formalizing this statement into an axiom. We shall follow this axiom while we are coming up with new ideas.
+ 
+- Let $T(x)$ represent "Tool $x$ is the right tool for the job."
+
+- Let $J(y)$ represent "Job $y$ is the right job."
+
+- Let $R(x,y)$ represent "Using tool $x$ for job $y$ gives the right result."
+ 
+
+$(T(x)∧J(y))→R(x,y)$
+
+
 
 ### Definition
 **Let:**
