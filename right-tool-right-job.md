@@ -14,7 +14,7 @@ So, let us now start with formalizing this statement into an axiom. We shall fol
  
 We can now proceed to transform this statement into a tautology. We shall start with making sure that using the right tool for the right job, always implies that you get the correct outcome. Thus, we shall use the following statement.
 
-> "Use the right tool for the right job, and you will always get the right result."
+> Use the right tool for the right job, and you will always get the right result.
 
 Which we formalize as
 
