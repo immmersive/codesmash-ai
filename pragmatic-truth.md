@@ -1,4 +1,4 @@
-### Reworking the Notion of Pragmatic Truth
+# The Pragmatic Truth
 
 ### Old Pragmatic Truth Definition
 
