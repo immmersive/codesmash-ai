@@ -23,8 +23,8 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 1.5 - [Ideas](/ideas.md)
 
 ## 2. - Pragmatic Analysis
-- 2.1 - Pragmatism as a Problem-solving Framework
-- 2.2 - Problem-solving as an Optimization Problem
+- 2.1 - [Problem-solving as an Optimization Problem](/optimization.md)
+- 2.2 - Pragmatism as a Problem-solving Framework
 - 2.3 - [Pragmatic Maxim](/pragmatic-maxim.md)
 - 2.4 - [Pragmatic Truth](/pragmatic-truth.md)
 - 2.5 - [Pragmatic Meaning](/pragmatic-meaning.md)
