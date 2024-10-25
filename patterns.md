@@ -6,7 +6,7 @@ Everything which needs to be solved is treated as a problem, for which we need t
 
 In order to keep with our pragmatic approach, we have to keep in mind that patterns which represent solutions, need to be evaluated with respect to how well they solve the problem, therefore, we are going to use the right tool for the right job, according to our axiom. In other words, the method needs to be able to pick the correct pattern which will solve the problem and get us from teh problem to the solution.
 
-# Patterns as Fundamental Entities:
+# Patterns as Fundamental Entities
 
 Everything in the world is a pattern, whether it's a shape, a sound, a movement, or an abstract concept. A pattern is a structured, recognizable configuration of elements. A circle is a geometric pattern; a melody is a musical pattern; walking is a movement pattern. There are patterns that do not change over time. For example, a geometric shape or a static image. Then are patterns that evolve or change over time, such as a moving object, a conversation, or a process.
 
