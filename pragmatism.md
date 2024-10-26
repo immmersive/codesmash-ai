@@ -22,7 +22,7 @@ Even if two philosophical views contradict each other, it should not matter to u
 
 The only evaluation mechanism for any idea which we can always rely on, is our main Axiom.
 
-# Problem definitions
+# Problem Definition
 
 When it comes to ideas, it is important to take into account the following example from William James.
 
