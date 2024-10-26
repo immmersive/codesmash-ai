@@ -47,5 +47,6 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 
 ## 5. - Implementation
 - 5.1 - [Formulating the Problem](/formulating-problem.md)
+- 5.2 - [The Minimal AGI Model](/agi-model.md)
 
 
