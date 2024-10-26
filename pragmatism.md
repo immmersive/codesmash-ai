@@ -60,4 +60,4 @@ Clearly, this is not a complete question and has no correct answer. We argue tha
 - Potential solutions 
 - Goal - end state
 
-We can then apply our main Axiom and conclude that from the potential solutions, we should pick the best solution to reach the goal.
+We can then apply our main Axiom and conclude that from the potential solutions, we should pick the best solution to reach the goal. If we are picking the best solution from a set of possible solutions, then we are not presented with an optimization problem and our solution is actually the optimal result. Since we are working with all possible patterns in question, we are in this case talking about a general optimization method. This method is our Pragmatic Analysis which aims to use the right tool for the right job according to our main Axiom. It does so by taking into account all possible ideas is form of patterns. It then evaluates these patterns with respect to the goal we are trying to achieve. Once evaluated, the optimal, i.e. the best solution is presented.
