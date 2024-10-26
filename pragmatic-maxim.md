@@ -6,7 +6,7 @@ The **Pragmatic Maxim** originally suggested that the meaning of a concept or id
 
 We can see that, as we have said previously, the ideas that we have about any object in question, is only what we have experienced with respect to that object. Since we concluded that we never have full information at hand, and can never confirm absolute truth, then this definition clearly tells us that we are working with objects based on incomplete information. This is in line with our conclusion that we should make decision based on the best available knowledge, which is - the inference to the bext explanation. Note, making a decision on the best available knowledge is also in live with our main Axiom because we are using the best tool (knowledge) for the job (giving an explanation).
 
-With respect to ideas in general, which is what we are ultimately dealing with, in our problem solving approach, we shall redefine the Pragmatic Maxim as follows.
+With respect to ideas in general, which is what we are ultimately dealing with, in our Pragmatic Analysis, we shall redefine the Pragmatic Maxim as follows.
 
 > Ideas should be evaluated based on how useful they are with respect to the goal we are trying to achieve.
 
