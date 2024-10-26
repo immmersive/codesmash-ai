@@ -5,13 +5,13 @@ The **Pragmatic Maxim** originally suggested that the meaning of a concept or id
 
 > Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object. 
 
-We can see that, as we have said previously, the ideas that we have about any object in question, is only what we have experienced with respect to that object. Since we concluded that we never have full information at hand, and can never confirm absolute truth, then this definition clearly tells us that we are working with objects based on incomplete information. This is in line with our conclusion that we should make decision based on the best available knowledge, which is - the inference to the bext explanation.
+We can see that, as we have said previously, the ideas that we have about any object in question, is only what we have experienced with respect to that object. Since we concluded that we never have full information at hand, and can never confirm absolute truth, then this definition clearly tells us that we are working with objects based on incomplete information. This is in line with our conclusion that we should make decision based on the best available knowledge, which is - the inference to the bext explanation. Note, making a decision on the best available knowledge is also in live with our main Axiom because we are using the best tool (knowledge) for the job (giving an explanation).
 
-In our problem-solving approach, we shall redefine the Pragmatic Maxim as follows.
+With respect to ideas in general, which is what we are ultimately dealing with, in our problem solving approach, we shall redefine the Pragmatic Maxim as follows.
 
 > Ideas should be evaluated based on how useful they are with respect to the goal we are trying to achieve.
 
-What we can 
+This definition tells us several things. Ideas are what we are evaluating while solving problems. Since everything starts from ideas, this is the most encompassing approach possible. When we are evaluating ideas, we should do it with respect to the goal we are tryign to achieve. This is in line with our main Axiom because it is telling us to use the best idea for the job at hand, which in general is the goal we are trying to achieve.
 
 # Formal Definition
 
