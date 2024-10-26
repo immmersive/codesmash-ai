@@ -6,4 +6,10 @@ Once trained, the system will try to statistically find the correct solution, ba
 
 But we are not going to expect the system to be able to tell if a picture it is shown is a car, if it has not been shown what a car is. Once the system has been trained, it will only be optimal for the domain it has been trained on. As opposed to human problem solvers, who even though don't know what the solution to a noven problem is, will go out of their way and find out how to solve a problem. We can then say, that humans either solve problems they know how to solve and if they don't know how to solve a problem, they create a new approach which can then solve the problem.
 
-Our AGI system is therefore supposed to do the same thing. If it is tasked with solvign a problem it doesn't know how to solve, it needs to find an approach, i.e. and algorithm, which will be able to solve the problem.
+Our AGI system is therefore supposed to do the same thing. If it is tasked with solvign a problem it doesn't know how to solve, it needs to find an approach, i.e. and algorithm, which will be able to solve the problem. Otherwise, training they system upfront with the data, defeats the purpose of building an AGI system in teh first place. The idea behind AGI is that we construct a system which can solve problems that we humans can't solve. Current AI systems on the other hand, only solve problems we already know how to solve, but they retreive the information faster than humans.
+
+We can explain this situation with the following example.
+
+# Example
+
+A calculator is a very simple computing device. It only has a few arithmetic instructions available and can perform computations on numbers of certain length. It can do so faster than an average person. Yet, it is a fact that all the computations which are performed by a calcualtor, already known to people. The information on how to perform the computation, came from people already, thus the calculator did not actually extract this information by itself. The information on how to perform the calculations, was transfered by the people who made teh calculator with a specific goal, for it to be used to make those calculations. 
