@@ -1,4 +1,4 @@
-# Computable Functions as Compressed Descriptions of Patterns
+# Computable Functions 
 
 If our goal is to solve problems, that is transform patterns from initial to desired state, we could go about it in this way.
 
@@ -16,7 +16,7 @@ One example is an empirical experiment which would take a lot more resources tha
 
 This tells us that we should be moving as many of empirical experiments into the virtual world, because of its benefits. The move needs to be from the physical to the virtual domain. From this, it follows that we need a computational system, which would allow us to run as many calculations as possible, on order to move s much work into the digital domain.
 
-# Generalization of descriptions
+# omputable Functions as Compressed Descriptions of Patterns
 
 When we have certain values which represent real events, it would be good to derive a function which describes them will. This basically means that we have found a general rule which will tell us what will happen under certain circumstances. In other words we have compressed these events using this function which we use as a description. Thus, we now have a pattern which specifies an event and makes it distinct from others. In order to better compress events we should give as much data as possible so that we have a good context, in other words, more information, to compress the events.
 
