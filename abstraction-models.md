@@ -12,17 +12,17 @@ Let us take an average human being ass an example. Humans can perform different 
 
 In the case of biological studies, we can describe a human as follows.
 
-- living organism
-- has 1 head
-- has 2 arms
-- has 2 legs
-- walks upright
+- Living organism
+- Walks upright
+- 1 head
+- 2 arms
+- 2 legs
 
 On the other hand, when it comes to civil institutions, for example, when we need to identify each person for their ID card, we could define a human being as having the following.
 
-- name
-- date of birth
-- home address
+- Name
+- Date of birth
+- Home address
 
 We can now see that, we could be talking about the same person in general, but we have described it in a completely different way. We have basically created two different data structures, which will server different tasks more efficiently. Again, this is in line with our main Axiom which states that we should solve problems, in this case form descriptions with respect to the goal we are trying to achieve.
 
