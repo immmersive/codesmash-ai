@@ -33,3 +33,31 @@ We can analyze the example as follows.
 > James proposed that which answer is correct depends on what you ‘practically mean’ by ‘going round’. If you mean passing from north of the squirrel, east, south, then west, then the answer is ‘yes’. If, on the other hand, you mean in front of him, to his right, behind him, to his left, and then in front of him again, then the answer is ‘no’.
 
 It should be now clear that by creating definitions, that is distinct patterns which represent ideas, we can use them to different ends. If we then decide to evaluate an idea with respect to a goal, then it is easy to actually find the solution. Had we not had a goal, with respect to which we can solve a problem, then the statement can be interpreted in infinite ways and any interpretation could be valid. Thus, it becomes useless. By constraining the definitions to those which get us to a specific goal, we can specifically choose a definition which we know will work in a certain case when solving a problem at hand.
+
+# Problem Evaluation
+
+The above example tells us that we should make our ideas clear before we start evaluating possible solutions to a problem. Otherwise, we cannot find the solution efficiently. Let us take into consideration the following question.
+
+> What is better, a computer or a box of matches?
+
+Let us analyze this question. The question we see here is actually a problem as well. It asks us to decide which object is better, a computer, or a box of matches. In reality, we might say that a computer is better, because it can be used to write text. On the other hand, we can say that a box of matches is better, because it can be used to light a fire when you want to prepare a meal. Clearly, both cases are actually being evaluated with respect to a certain goal. Thus, there could be an infinite number of cases we could use both objects, so there is no correct answer to this question and the problem is unsolvable.
+
+Once we reformulate the question in either of the following ways, the answer becomes instantly clear.
+
+> What is better, a computer or a box of matches, in order to write text?
+
+and also
+
+> What is better, a computer or a box of matches, in order to light a fire?
+
+We can easily decide which object is better now that our problem should be evaluated with respect to a goal we are trying to achieve. This example is similar to a question posed in this manner.
+
+> How could we?
+
+Clearly, this is not a complete question and has no correct answer. We argue that any question, that is, a problem solving method, which does not take into, is incomplete and therefore useless and meaningless. In other words, the statement needs to be defined in terms of reaching a solution. We can now conclude that problems need to be solved with respect to a goal we are trying to achieve. Once we have formed a problem solving method in the following terms.
+
+- Problem - starting state
+- Potential solutions 
+- Goal - end state
+
+We can then apply our main Axiom and conclude that from the potential solutions, we should pick the best solution to reach the goal.
