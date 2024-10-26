@@ -31,7 +31,7 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 
 ## 3. - Descriptions
 - 3.1 - [Patterns](/patterns.md)
-- 3.2 - [The world as transformation of Patterns](/transformation-patterns.md)
+- 3.2 - [Transformation of Patterns](/transformation-patterns.md)
 - 3.3 - [Computable Functions as Compressed Descriptions of Events](/computable-functions.md)
 - 3.4 - [Abstraction Models](/abstraction-models.md)
 - 3.5 - [Generalization and Specialization](/generalization-specialization.md)
