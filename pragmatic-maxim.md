@@ -3,15 +3,15 @@
 ## Original Definition
 The **Pragmatic Maxim** originally suggested that the meaning of a concept or idea lies in its practical effects and consequences. According to Charles Sanders Peirce, one of the founders of Pragmatism, the meaning of a concept can be understood by considering what practical effects the object of the concept might have and how those effects could potentially influence our experiences. The statement was defined as follows.
 
-
 > Consider what effects, that might conceivably have practical bearings, we conceive the object of our conception to have. Then, our conception of these effects is the whole of our conception of the object. 
 
+We can see that, as we have said previously, the ideas that we have about any object in question, is only what we have experienced with respect to that object. Since we concluded that we never have full information at hand, and can never confirm absolute truth, then this definition clearly tells us that we are working with objects based on incomplete information. This is in line with our conclusion that we should make decision based on the best available knowledge, which is - the inference to the bext explanation.
 
 In our problem-solving approach, we shall redefine the Pragmatic Maxim as follows.
 
 > Ideas should be evaluated based on how useful they are with respect to the goal we are trying to achieve.
 
-This definition shifts the focus from the broad practical consequences of an idea to a more goal-oriented assessment. The central criterion for evaluating an idea is its utility in achieving a specific objective. To us, this will be to solve a given problem.
+What we can 
 
 # Formal Definition
 
