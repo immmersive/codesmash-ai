@@ -39,7 +39,7 @@ We then take into account the optimization condition. The goal is to find the id
 I^* = \arg\max_{I_i} U(I_i, G)
 ```
 
-This equation means that the optimal idea $I^*$ is the one that maximizes the utility with respect to the goal $G$. Furthermore, given our new theory of truth, we can represent the "truth" $T$ as the optimal solution $I^*$:
+This equation means that the optimal idea $I^\*$ is the one that maximizes the utility with respect to the goal $G$. Furthermore, given our new theory of truth, we can represent the "truth" $T$ as the optimal solution $I^*$:
 
 ```math
 T = I^*
