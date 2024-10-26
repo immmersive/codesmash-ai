@@ -141,16 +141,22 @@ This approach is useful when deciding which tool to use for specific home improv
 ### Conclusion
 This formulation helps ensure that the chosen tool is the most efficient and effective for the task at hand, reflecting the practical wisdom of "using the right tool for the right job" in everyday decision-making for home improvement.
  
-### Given Data
-- **Tools**: Hammer (T1), Saw (T2), Screwdriver (T3)
-- **Effectiveness $E(T_i, P)$**:
-  - $E(T_1, P)$: 10 for nailing, 0 for cutting, 0 for screwing.
-  - $E(T_2, P)$: 0 for nailing, 10 for cutting, 0 for screwing.
-  - $E(T_3, P)$: 0 for nailing, 0 for cutting, 10 for screwing.
-- **Cost $C(T_i)$** (Assuming a simple scale of 1-10):
-  - $C(T_1)$: 2 (Hammer)
-  - $C(T_2)$: 5 (Saw)
-  - $C(T_3)$: 3 (Screwdriver)
+# Example
+
+Tools
+- $(T_1)$ = Hammer
+- $(T_2)$ = Saw
+- $(T_3)$ = Screwdriver
+
+Effectiveness $E(T_i, P)$
+- $E(T_1, P)$ = 10 for nailing, 0 for cutting, 0 for screwing.
+- $E(T_2, P)$ = 0 for nailing, 10 for cutting, 0 for screwing.
+- $E(T_3, P)$ = 0 for nailing, 0 for cutting, 10 for screwing.
+
+Cost $C(T_i)$ (Assuming a simple scale of 1-10):
+- $C(T_1)$ = 2 (Hammer)
+- $C(T_2)$ = 5 (Saw)
+- $C(T_3)$ = 3 (Screwdriver)
 
 ### Suitability Scores Calculation
 
