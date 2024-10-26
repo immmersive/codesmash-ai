@@ -22,9 +22,9 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 1.4 - [Use the Right Tool for the Right Job](/right-tool-right-job.md)
 - 1.5 - [Ideas](/ideas.md)
 
-## 2. - Pragmatic Analysis
-- 2.1 - [Problem-solving as an Optimization Problem](/optimization.md)
-- 2.2 - [Pragmatism as a Problem-solving Framework](/pragmatism.md)
+## 2. - Problem Solving
+- 2.1 - [General Problem Solving Method](/optimization.md)
+- 2.2 - [Pragmatism](/pragmatism.md)
 - 2.3 - [The Pragmatic Maxim](/pragmatic-maxim.md)
 - 2.4 - [The Pragmatic Truth](/pragmatic-truth.md)
 - 2.5 - [The Pragmatic Meaning](/pragmatic-meaning.md)
