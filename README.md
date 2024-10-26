@@ -37,7 +37,7 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 3.5 - [Generalization and Specialization](/generalization-specialization.md)
 - 3.6 - Divergence and Convergence
 
-## 4. - Information
+## 4. - Measures
 - 4.1 - Information and Search
 - 4.2 - Algorithms and Data Structures
 - 4.3 - The NFL Theorem
