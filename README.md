@@ -29,7 +29,7 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 2.4 - [The Pragmatic Truth](/pragmatic-truth.md)
 - 2.5 - [The Pragmatic Meaning](/pragmatic-meaning.md)
 
-## 3. - Descriptions
+## 3. - Theoretical Models
 - 3.1 - [Patterns](/patterns.md)
 - 3.2 - [Transformation of Patterns](/transformation-patterns.md)
 - 3.3 - [Computable Functions](/computable-functions.md)
@@ -37,7 +37,7 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 3.5 - [Generalization and Specialization](/generalization-specialization.md)
 - 3.6 - Divergence and Convergence
 
-## 4. - Measures
+## 4. - Implementation
 - 4.1 - Information and Search
 - 4.2 - Algorithms and Data Structures
 - 4.3 - The NFL Theorem
@@ -45,7 +45,7 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 4.5 - Models as efficient Data Structures
 - 4.6 - [Metrics](/metrics.md)
 
-## 5. - Implementation
+## 5. - Applications
 - 5.1 - [Formulating the Problem](/formulating-problem.md)
 - 5.2 - [The Minimal AGI Model](/agi-model.md)
 
