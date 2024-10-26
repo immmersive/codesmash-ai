@@ -22,6 +22,10 @@ So, our definition of an AGI system is as follows.
 
 > An AGI system is any computational system, which given enough resources, over time, can prime itself to solve any problem better than random chance on average.
 
+We can also say that the AGI thesis is defined as follows.
+
+> Any problem that is solvable by an algorithmic process (within defined constraints) can, in principle, be solved by the AGI model, given sufficient resources such as time, information, and computational power.
+
 Thus, we understand that what the AGI system is actually expected to do, is either solve the problem it knows how to solve, or create new optimal algorithms which can solve problems id does not know how to solve. We can define the process of AGI thinking as follows.
 
 - The process is started
@@ -37,3 +41,24 @@ Thus, we understand that what the AGI system is actually expected to do, is eith
 - if it can solve the problem, it returns the result
 - if it can't solve the problem it decides on the best course of action based on its internal data
 - it then adjusts the internal knowledge based on the outcome
+
+In order to be able to perform the above steps, we can say that the AGI system, needs to have the following components.
+
+- General problem representation where all input is transformed into patterns and stored internally. 
+
+- Learning system which will analyze patterns in the internal data and create classification hierarchies.
+
+- General problem solving method, which can take the stored patterns as its input and return the solution to the problem represented as patterns.
+
+- Feedback system which will store into the internal system data all results of each problem solving request.
+
+
+
+
+
+
+
+
+
+
+
