@@ -41,9 +41,9 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 4.1 - Information and Search
 - 4.2 - Algorithms and Data Structures
 - 4.3 - The NFL Theorem
-- 4.4 - Abstraction Model Hierarchy
-- 4.5 - Models as efficient Data Structures
-- 4.6 - [Metrics](/metrics.md)
+- 4.4 - Models as efficient Data Structures
+- 4.5 - [Metrics](/metrics.md)
+- 4.6 - Optimization
 
 ## 5. - Applications
 - 5.1 - [Formulating the Problem](/formulating-problem.md)
