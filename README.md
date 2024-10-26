@@ -23,7 +23,7 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 1.5 - [Ideas](/ideas.md)
 
 ## 2. - Problem Solving
-- 2.1 - [General Problem Solving Method](/optimization.md)
+- 2.1 - [General Problem Solving Method](/problem-solving.md)
 - 2.2 - [Pragmatism](/pragmatism.md)
 - 2.3 - [The Pragmatic Maxim](/pragmatic-maxim.md)
 - 2.4 - [The Pragmatic Truth](/pragmatic-truth.md)
