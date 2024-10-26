@@ -22,3 +22,14 @@ Even if two philosophical views contradict each other, it should not matter to u
 
 The only evaluation mechanism for any idea which we can always rely on, is our main Axiom.
 
+When it comes to ideas, it is important to take into account the following example from William James.
+
+> This human witness tries to get sight of the squirrel by moving rapidly round the tree, but no matter how fast he goes, the squirrel moves as fast in the opposite direction … so that never a glimpse of him is caught. The resultant metaphysical problem now is this: Does the man go round the squirrel or not?
+
+We can analyze the example as follows.
+
+> James proposed that which answer is correct depends on what you ‘practically mean’ by ‘going round’. If you mean passing from north of the squirrel, east, south, then west, then the answer is ‘yes’. If, on the other hand, you mean in front of him, to his right, behind him, to his left, and then in front of him again, then the answer is ‘no’.
+
+It should be now clear that by creating definitions, that is distinct patterns which represent ideas, we can use them to different ends. If we then decide to evaluate an idea with respect to a goal, then it is easy to actually find the solution. Had we not had a goal, with respect to which we can solve a problem, then the statement can be interpreted in infinite ways and any interpretation could be valid. Thus, it becomes useless. By constraining the definitions to those which get us to a specific goal, we can specifically choose a definition which we know will work in a certain case when solving a problem at hand.
+
+
