@@ -12,7 +12,9 @@ These descriptions have low Kolmogorov complexity and are thus highly compressib
 
 # Example
 
-One example is an empirical experiment which would take a lot more resources than a simple computation and they both give us the same result. The digital domain and the empirical experiment give us the same result. They are basically the same comparison, but the digital one is more succinct. It removes the repetitions from the physical domain and all the operations which are not needed and only focuses on the important ones. Also, we are limiting possible events thus increasing probability of possible events and by that we are increasing information which is needed to make precise predictions. This tells us that we should be moving as many of empirical experiments into the virtual world, because of its benefits. The move needs to be from the physical to the virtual domain. From this, it follows that we need a computational system, which would allow us to run as many calculations as possible, on order to move s much work into the digital domain.
+One example is an empirical experiment which would take a lot more resources than a simple computation and they both give us the same result. The digital domain and the empirical experiment give us the same result. They are basically the same comparison, but the digital one is more succinct. It removes the repetitions from the physical domain and all the operations which are not needed and only focuses on the important ones. Also, we are limiting possible events thus increasing probability of possible events and by that we are increasing information which is needed to make precise predictions. 
+
+This tells us that we should be moving as many of empirical experiments into the virtual world, because of its benefits. The move needs to be from the physical to the virtual domain. From this, it follows that we need a computational system, which would allow us to run as many calculations as possible, on order to move s much work into the digital domain.
 
 # Generalization of descriptions
 
