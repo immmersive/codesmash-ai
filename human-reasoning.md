@@ -8,7 +8,7 @@ Regardless of human mind being material or not, the effects we see of our mind i
 
 # Theoretically Unsolvable Problems
 
-Let us suppose that our task is to find the last digit of number pi. Since according to our definition, pi is a transcendental number, it does not have the last digit. Thus, by definition, there is no solution to this problem, even in theory
+Let us suppose that our task is to find the last digit of number $π$. Since according to our definition, $π$ is a transcendental number, it does not have the last digit. Thus, by definition, there is no solution to this problem, even in theory.
 
 # Practically Unsolvable Problems
 
