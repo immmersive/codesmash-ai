@@ -20,6 +20,4 @@ We propose that there is only one way to formulate this problem and that is to a
 
 If we actually adopt this viewpoint, then everything falls into place for us. If we can answer the question and decided on what we want to achieve, then we have created a question which is being answered with respect to a goal we are trying to achieve. From here, we can easily apply our main Axiom and conclude that the answer now isn't at all arbitrary when it comes to answering the original question. Because now we can apply the main Axiom to the question and find the best answer to the question which actually leads to what we wanted to achieve by solving this problem.
 
-Now, any arbitrariness is gone and both sides can agree what the best course of action is. Should both sides not agree on what should actually be achieved, they can simply apply the main Axiom on some more base idea, until they find common ground and then work from there.
-
-In the case of more than one person who decides, it is of course imperative that they first agree that they want to agree.
+Now, any arbitrariness is gone and both sides can agree what the best course of action is. Should both sides not agree on what should actually be achieved, they can simply apply the main Axiom on some more base idea, until they find common ground and then work from there. Of course, in the case of there being more than one person who is making the decision, it is imperative that they first agree, that they actually want to agree.
