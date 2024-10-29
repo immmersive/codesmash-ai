@@ -22,6 +22,12 @@ Even if two philosophical views contradict each other, it should not matter to u
 
 The only evaluation mechanism for any idea which we can always rely on, is our main Axiom.
 
+# Example
+
+For example, if we were to accept a certain philosophical view, from an exclusionary perspective, we would need to reject a vast array of all possible philosophical ideas, yet they indeed have some merit when analyzing ideas as well. In the case A) if we were to accept Intuitionism, we would be pressed to reject all ideas which contradict intuitionistic ideas. We simply reject them because they are in opposition to our chosen view. On the other hand, in the case of choice B) if we accept Pragmatism as our starting point, from an inclusionary perspective, we now logically open a vast array of all possible philosophical ideas to us. All these ideas are at our disposal, in order for us to analyze problems. This now gives a larger toolbox of ideas to work with, because we will be using any of the already existing ideas depending on how useful they are to our current investigation, in accordance to our main Axiom.
+
+![](/philosophy-model.png)
+
 # Problem Definition
 
 When it comes to ideas, it is important to take into account the following example from William James.
