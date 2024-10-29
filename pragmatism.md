@@ -32,11 +32,11 @@ For example, if we were to accept a certain philosophical view, from an exclusio
 
 When it comes to ideas, it is important to take into account the following example from William James.
 
-> This human witness tries to get sight of the squirrel by moving rapidly round the tree, but no matter how fast he goes, the squirrel moves as fast in the opposite direction … so that never a glimpse of him is caught. The resultant metaphysical problem now is this: Does the man go round the squirrel or not?
+> _**This human witness tries to get sight of the squirrel by moving rapidly round the tree, but no matter how fast he goes, the squirrel moves as fast in the opposite direction … so that never a glimpse of him is caught. The resultant metaphysical problem now is this: Does the man go round the squirrel or not?**_
 
 We can analyze the example as follows.
 
-> James proposed that which answer is correct depends on what you ‘practically mean’ by ‘going round’. If you mean passing from north of the squirrel, east, south, then west, then the answer is ‘yes’. If, on the other hand, you mean in front of him, to his right, behind him, to his left, and then in front of him again, then the answer is ‘no’.
+> _**James proposed that which answer is correct depends on what you ‘practically mean’ by ‘going round’. If you mean passing from north of the squirrel, east, south, then west, then the answer is ‘yes’. If, on the other hand, you mean in front of him, to his right, behind him, to his left, and then in front of him again, then the answer is ‘no’.**_
 
 It should be now clear that by creating definitions, that is distinct patterns which represent ideas, we can use them to different ends. If we then decide to evaluate an idea with respect to a goal, then it is easy to actually find the solution. Had we not had a goal, with respect to which we can solve a problem, then the statement can be interpreted in infinite ways and any interpretation could be valid. Thus, it becomes useless. By constraining the definitions to those which get us to a specific goal, we can specifically choose a definition which we know will work in a certain case when solving a problem at hand.
 
@@ -44,21 +44,21 @@ It should be now clear that by creating definitions, that is distinct patterns w
 
 The above example tells us that we should make our ideas clear before we start evaluating possible solutions to a problem. Otherwise, we cannot find the solution efficiently. Let us take into consideration the following question.
 
-> What is better, a computer or a box of matches?
+> _**What is better, a computer or a box of matches?**_
 
 Let us analyze this question. The question we see here is actually a problem as well. It asks us to decide which object is better, a computer, or a box of matches. In reality, we might say that a computer is better, because it can be used to write text. On the other hand, we can say that a box of matches is better, because it can be used to light a fire when you want to prepare a meal. Clearly, both cases are actually being evaluated with respect to a certain goal. Thus, there could be an infinite number of cases we could use both objects, so there is no correct answer to this question and the problem is unsolvable.
 
 Once we reformulate the question in either of the following ways, the answer becomes instantly clear.
 
-> What is better, a computer or a box of matches, in order to write text?
+> _**What is better, a computer or a box of matches, in order to write text?**_
 
 and also
 
-> What is better, a computer or a box of matches, in order to light a fire?
+> _**What is better, a computer or a box of matches, in order to light a fire?**_
 
 We can easily decide which object is better now that our problem should be evaluated with respect to a goal we are trying to achieve. This example is similar to a question posed in this manner.
 
-> How could we?
+> _**How could we?**_
 
 Clearly, this is not a complete question and has no correct answer. We argue that any question, that is, a problem solving method, which does not take into, is incomplete and therefore useless and meaningless. In other words, the statement needs to be defined in terms of reaching a solution. We can now conclude that problems need to be solved with respect to a goal we are trying to achieve. Once we have formed a problem solving method in the following terms.
 
