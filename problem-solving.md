@@ -8,7 +8,7 @@ Since we are actually concerned with solving all problems, we need to create a g
 
 Furthermore, since we have no reason to choose one idea as our starting point, or the goal either, the question which now arises is the following one
 
-> _**Which problem should be solved?**_
+> _**How should the problem be solved?**_
 
 The question is more problematic than it might seem at first. As an example let us take the old problem of the **Trolley Problem**. The problem ask us to choose between the lives of either 5 or 1 person, and we are the ones who will decide which of the people will live and which won't. 
 
