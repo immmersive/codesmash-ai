@@ -26,3 +26,6 @@ On the other hand, when it comes to civil institutions, for example, when we nee
 
 We can now see that, we could be talking about the same person in general, but we have described it in a completely different way. We have basically created two different data structures, which will serve different tasks more efficiently. Again, this is in line with our main Axiom which states that we should solve problems, in this case form descriptions with respect to the goal we are trying to achieve.
 
+# Application
+
+What can we conclude from the previous example? We can conclude that depending on the task we want to achive, we should pick the correct data structure. As it has been said earlier, these data structures are certain ideas adn it is these ideas which will help us get to the correct solution. The problem now comes, where we have to ask ourselves, how do we go about creating and then choosing the correct data structure for each specific task.
