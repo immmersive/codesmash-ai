@@ -1,6 +1,6 @@
 # Abstraction Models
 
-We have already talked about how the world can be described as transformation of patterns. In order to understand the world, we need to understand how it works. This means undestand the rules based on which the transformation of patterns unfolds. This will give us knowledge of which state transitions are possible and which are not. Since this is the case, we are actually removing certain possible states from consideration, or in other words, increasing the probability of certain states being exhibited during the process of transformation. This means that we are increasing our information about the system, which is what we want. The more information we have about the system, the higher the probability that we will be able to solve problems which concern this system.
+We have already talked about how the world can be described in terms of transformation of patterns. In order to understand the world, we need to understand how it works. This means undestand the rules based on which the transformation of patterns unfolds. This will give us knowledge of which state transitions are possible and which are not. Since this is the case, we are actually removing certain possible states from consideration, or in other words, increasing the probability of certain states being exhibited during the process of transformation. This means that we are increasing our information about the system, which is what we want. The more information we have about the system, the higher the probability that we will be able to solve problems which concern this system.
 
 We have also understood that certain patterns are more useful than others. This is then expressed in terms of fitting the correct algorithms to correct data structures. Thus, any transformation of patterns, can be described as executing of an algorithm on a certain data structure. When we make descriptions of ideas, we present them as patterns. What we're actually doing, is creating abstractions.
 
@@ -8,7 +8,7 @@ Abstractions are made with respect to the goal we are trying to achieve, which i
 
 # Example
 
-Let us take an average human being ass an example. Humans can perform different taks and be in many different situations. In certain cases, they can be referenced in biological studies. They can also be considered in terms of social institutions where they are one of many humans to be considered.
+Let us take an average human being as an example. Humans can perform many tasks and find themselves in many different situations. In certain cases, they can be referenced in biological studies. They can also be referenced in terms of social institutions where they are one of many humans to be considered.
 
 In the case of biological studies, we can describe a human as follows.
 
@@ -24,5 +24,5 @@ On the other hand, when it comes to civil institutions, for example, when we nee
 - Date of birth
 - Home address
 
-We can now see that, we could be talking about the same person in general, but we have described it in a completely different way. We have basically created two different data structures, which will server different tasks more efficiently. Again, this is in line with our main Axiom which states that we should solve problems, in this case form descriptions with respect to the goal we are trying to achieve.
+We can now see that, we could be talking about the same person in general, but we have described it in a completely different way. We have basically created two different data structures, which will serve different tasks more efficiently. Again, this is in line with our main Axiom which states that we should solve problems, in this case form descriptions with respect to the goal we are trying to achieve.
 
