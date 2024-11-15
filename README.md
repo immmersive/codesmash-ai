@@ -41,7 +41,7 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 ## 4. - Implementation
 - 4.1 - Information and Search
 - 4.2 - Algorithms and Data Structures
-- 4.3 - The NFL Theorem
+- 4.3 - [The NFL Theorem](/nfl-theorem.md)
 - 4.4 - Models as efficient Data Structures
 - 4.5 - [Metrics](/metrics.md)
 - 4.6 - Optimization
