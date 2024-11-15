@@ -1,0 +1,3 @@
+# The NFL Theorem
+
+The NFL (No Free Lunch) Theorem is going to be one of the core guideline which we will be using in our approach to problem solving. It states that no algorithm outperforms any other algorithm, including random chance, when averaged over all fitness functions. This has large implications for problem solving because it tells us that not all aproaches are equally good for all problems. This would mean that we need to pick the correct algorithm when paired with the correct data structure. It should be clear at this point that this is simply a restatement of our Main Axiom, wich tells us that we should use the right tool for the right job.
