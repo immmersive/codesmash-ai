@@ -36,6 +36,7 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 3.4 - [Abstraction Models](/abstraction-models.md)
 - 3.5 - [Generalization and Specialization](/generalization-specialization.md)
 - 3.6 - Divergence and Convergence
+- 3.7 - [Thinking](/thinking.md)
 
 ## 4. - Implementation
 - 4.1 - Information and Search
