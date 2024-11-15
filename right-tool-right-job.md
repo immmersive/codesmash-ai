@@ -2,7 +2,7 @@
 
 Since our goal is to be able to solve any problem, we should create a guiding principle which will always steer us in the right direction. The statement, which by definition does that, is the following one.
 
-> Use the right tool for the right job
+> _**Use the right tool for the right job**_
 
 If we analyze this statement closer, we will notice that it is advising us to use certain tools, or methods to get the job done, i.e. solve a problem. But it is telling us to use the appropriate tools, i.e. appropriate methods to do so. The appropriate methods in question here, are by definition, the ones which will indeed get the job done,t hat is, solve teh problem. It should now be noted that if we actually know what those methods are and what the appropriate problems are, then if we stick to this statement while we are solving problems, then we can by definition solve any problem. The only thing that is now left for us to find out, are the following
 
@@ -25,7 +25,7 @@ So, let us now start with formalizing this statement into an axiom. We shall fol
  
 We can now proceed to transform this statement into a tautology. We shall start with making sure that using the right tool for the right job, always implies that you get the correct outcome. Thus, we shall use the following statement.
 
-> Use the right tool for the right job, and you will always get the right result.
+> _**Use the right tool for the right job, and you will always get the right result.**_
 
 Which we formalize as
 
