@@ -65,5 +65,4 @@ Therefore, humans are incapable of knowing whether the search for truth is meani
 
 **Conclusion**
 
-If there is no way for us to confirm with absolute certainty any idea we have, then no idea can be considered ultimate truth. The only thing we can conclude from this point, is that all ideas are subject to change as our process of thinking continues.
- 
+If there is no way for us to confirm with absolute certainty any idea we have, then no idea can be considered ultimate truth. The only thing we can conclude from this point, is that all ideas are subject to change as our process of thinking continues. When it comes to solving problems using our ideas, we have nothing left other than finding the best idea which will solve the problem, whether this idea is actually absolutely true or not, the goal is to simply solve the problem.
