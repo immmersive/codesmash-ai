@@ -60,7 +60,9 @@ This is a tautology because:
 
 # Application of the Definition
 
-Let us now assume that $P$ is a specific problem that needs to be solved. Then $T = \{T_1, T_2, \ldots, T_n\}$ is the set of all available tools which can be used to solve $P$. Furthermore, we can define $R_P$ as the set of constraints which limit us in how we can use the tools at our disposal in order to solve $P$. Now, we can define the function $E(T_i, P)$ as a measure, which represents the effectiveness of tool $T_i$ when applied to problem $P$. The function $C(T_i)$ is a measure representing the cost when using tool $T_i$ to solve $P$. Lastly the function $S(T_i, P)$ is a suitability measure which tells us how appropriate is the tool $T_i$ for solving $P$, considering both effectiveness and cost.
+Let us now assume that $P$ is a specific problem that needs to be solved. Then $T = \{T_1, T_2, \ldots, T_n\}$ is the set of all available tools which can be used to solve $P$. Furthermore, we can define $R_P$ as the set of constraints which limit us in how we can use the tools at our disposal in order to solve $P$. Now, we can define the function $E(T_i, P)$ as a measure, which represents the effectiveness of tool $T_i$ when applied to problem $P$. This function assesses how well the tool $T_i$ addresses the problem $P$, meeting the desired outcomes specified in $R_P$. It can consider factors like precision, accuracy, efficiency, and overall impact on solving $P$.
+
+The function $C(T_i)$ is a measure representing the cost when using tool $T_i$ to solve $P$. This function measures the resources required to use $T_i$, which could include monetary cost, time, labor, or other resources. Lower costs are preferable for the same level of effectiveness. Lastly the function $S(T_i, P)$ is a suitability measure which tells us how appropriate is the tool $T_i$ for solving $P$, considering both effectiveness and cost. This ratio ensures that the selected tool not only meets the problem's requirements effectively but also does so in a resource-efficient manner. The tool with the highest score $S$ is considered the most suitable, as it offers the best trade-off between effectiveness and cost.
 
 We can now define the suitability of a tool $T_i$ for a problem $P$, given the specific requirements $R_P$as:
 ```math
@@ -71,14 +73,9 @@ We can then define how to choose the best tool $T^*$ when using the above Suitab
 ```math
 T^* = \arg\max_{T_i \in T} S(T_i, P)
 ```
-This means choosing the tool $T_i$ from the set $T$ that maximizes the suitability score $S(T_i, P)$.
 
-### Explanation
-- **Effectiveness $E(T_i, P)$**: This function assesses how well the tool $T_i$ addresses the problem $P$, meeting the desired outcomes specified in $R_P$. It can consider factors like precision, accuracy, efficiency, and overall impact on solving $P$.
-
-- **Cost $C(T_i)$**: This function measures the resources required to use $T_i$, which could include monetary cost, time, labor, or other resources. Lower costs are preferable for the same level of effectiveness.
-
-- **Suitability Score $S(T_i, P)$**: This ratio ensures that the selected tool not only meets the problem's requirements effectively but also does so in a resource-efficient manner. The tool with the highest score $S$ is considered the most suitable, as it offers the best trade-off between effectiveness and cost.
+This means choosing the tool $T_i$ from the set $T$ that maximizes the suitability score $S(T_i, P)$ and we have chosen the right tool for the right job.
+ 
 
 ### Application
 This formalization can be applied across various contexts, from engineering and software development to management and policy-making, wherever decisions need to be made about which tools or methods to employ based on specific objectives and constraints. The goal is always to achieve the highest possible effectiveness for the lowest relative cost, ensuring optimal resource utilization and outcome.
