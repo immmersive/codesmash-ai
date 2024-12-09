@@ -18,8 +18,8 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 ## 1. - [Introduction](/introduction.md)
 - 1.1 - [Justifying Radical Skepticism](/radical-skepticism.md)
 - 1.2 - [Limits of Human Reasoning](/human-reasoning.md)
-- 1.3 - [Inference to the Best Explanation](/best-explanation.md)
-- 1.4 - [Use the Right Tool for the Right Job](/right-tool-right-job.md)
+- 1.3 - [Use the Right Tool for the Right Job](/right-tool-right-job.md)
+- 1.4 - [Inference to the Best Explanation](/best-explanation.md)
 - 1.5 - [Ideas](/ideas.md)
 
 ## 2. - Problem Solving
