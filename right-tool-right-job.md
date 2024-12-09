@@ -98,54 +98,38 @@ $C(Saw)$ = 5
 
 $C(Screwdriver)$ = 3 
 
-Now that we have both the effectiveness and the cost of each tool, we can proceed with determining which tool is the right one for the job, meaning we are going to calculate each tool's **Suitability $S(T_i, P)$** score as follows:
+Now that we have both the effectiveness and the cost of each tool, we can proceed with determining which tool is the right one for the job, meaning we are going to calculate each tool's **Suitability $S(T_i, P)$** score. We are going to measure the suitability of each tool, for each of the tasks we need to perform, so for the task of hammering we have the following scores.
+
+- $S(\text{Hammer}, \text{nailing}) = \frac{10}{2} = 5$
+
+- $S(\text{Saw}, \text{nailing}) = \frac{0}{5} = 0$
+
+- $S(\text{Screwdriver}, \text{nailing}) = \frac{0}{3} = 0$
+ 
+
+In the case of cutting task, the suitability score is as follows:
 
 
-#### For nailing (Using a Hammer, Saw, and Screwdriver):
-- **Hammer**:
-  ```math
-  S(T_1, \text{nailing}) = \frac{10}{2} = 5
-  ```
-- **Saw**:
-  ```math
-  S(T_2, \text{nailing}) = \frac{0}{5} = 0
-  ```
-- **Screwdriver**:
-  ```math
-  S(T_3, \text{nailing}) = \frac{0}{3} = 0
-  ```
+- $S(\text{Hammer}, \text{cutting}) = \frac{0}{2} = 0$
 
-#### For cutting (Using a Hammer, Saw, and Screwdriver):
-- **Hammer**:
-  ```math
-  S(T_1, \text{cutting}) = \frac{0}{2} = 0
-  ```
-- **Saw**:
-  ```math
-  S(T_2, \text{cutting}) = \frac{10}{5} = 2
-  ```
-- **Screwdriver**:
-  ```math
-  S(T_3, \text{cutting}) = \frac{0}{3} = 0
-  ```
+- $S(\text{Saw}, \text{cutting}) = \frac{10}{5} = 2$
 
-#### For screwing (Using a Hammer, Saw, and Screwdriver):
-- **Hammer**:
-  ```math
-  S(T_1, \text{screwing}) = \frac{0}{2} = 0
-  ```
-- **Saw**:
-  ```math
-  S(T_2, \text{screwing}) = \frac{0}{5} = 0
-  ```
-- **Screwdriver**:
-  ```math
-  S(T_3, \text{screwing}) = \frac{10}{3} \approx 3.33
-  ```
+- $S(\text{Screwdriver}, \text{cutting}) = \frac{0}{3} = 0$
 
-### Decision for Each Task
-- **For nailing**: The hammer has the highest suitability score of 5. Thus, it is the best tool for the job.
-- **For cutting**: The saw has the highest suitability score of 2. Thus, it is the best tool for the job.
-- **For screwing**: The screwdriver has the highest suitability score of approximately 3.33. Thus, it is the best tool for the job.
+In the case of driving screws, the suitability score is as follows:
+
+- $S(\text{Hammer}, \text{screwing}) = \frac{0}{2} = 0$
+
+- $S(\text{Saw}, \text{screwing}) = \frac{0}{5} = 0$
+
+- $S(\text{Screwdriver}, \text{screwing}) = \frac{10}{3} \approx 3.33$
+
+We can now conclude that for each task, the following tools are the best.
+
+- **Nailing** - The hammer has the highest suitability score of 5.
+  
+- **Cutting** - The saw has the highest suitability score of 2.
+  
+- **Screwing** - The screwdriver has the highest suitability score of approximately 3.33. 
 
 These calculations show how to quantitatively decide which tool is the most suitable for each specific task based on the concept of "using the right tool for the right job." Each tool's suitability is evaluated based on its effectiveness for the task relative to its cost, leading to the most efficient choice.
