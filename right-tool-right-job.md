@@ -80,70 +80,26 @@ This means choosing the tool $T_i$ from the set $T$ that maximizes the suitabili
 
 We are now going to show a simple example, where our goal is to perform a simple home improvement task, like nailing planks, which is a common task in carpentry.
 
-Let $P$ be the problem of performing basic home improvement tasks.
-Let $T = \{T_1, T_2, T_3\}$ be the set of tools available, where $T_1$ is a hammer, ideal for driving nails. $T_2$ is a saw, used for cutting wood. $T_3$ is a screwdriver, used for driving screws.
+Let $P$ be the problem of performing basic home improvement tasks. Let $T = \{ Hammer, Saw, Screwdriver \}$ be the set of tools available. Then we can measure **Effectiveness $E(T_i, P)$** and **Cost $C(T_i)$** for each tool as follows:
+  
+We can then calculate the effectiveness of each tool by using the **Effectiveness $E(T_i, P)$** function as follows:
 
-Furthermore, let $R_P$ be the requirements to efficiently and safely complete tasks while minimizing effort and time.
+$E(Hammer, P)$ = 10 for nailing, 0 for cutting, 0 for screwing.
+  
+$E(Saw, P)$ = 0 for nailing, 10 for cutting, 0 for screwing.
+  
+$E(Screwdriver, P)$ = 0 for nailing, 0 for cutting, 10 for screwing.
 
-Then we can measure **Effectiveness $E(T_i, P)$** and **Cost $C(T_i)$** for each tool as follows:
- 
-$E(T_1, P)$: Excellent for nailing tasks, not suitable for cutting or screwing.
-$E(T_2, P)$: Excellent for cutting tasks, not suitable for nailing or screwing.
-$E(T_3, P)$: Excellent for screwing tasks, not suitable for nailing or cutting.
+Furthermore, the **Cost $C(T_i)$** function then gives the the following for each tool:
 
-$C(T_1)$: Low cost.
-$C(T_2)$: Moderate cost.
-$C(T_3)$: Low cost.
+$C(Hammer)$ = 2 
 
-### Suitability Function
-The suitability of each tool $T_i$ for a given task $P$, given the specific requirements $R_P$, is determined by:
-```math
-S(T_i, P) = \frac{E(T_i, P)}{C(T_i)}
-```
+$C(Saw)$ = 5 
 
-### Optimization Problem
-Select the optimal tool $T^*$ such that:
-```math
-T^* = \arg\max_{T_i \in T} S(T_i, P)
-```
-This means choosing the tool $T_i$ from the set $T$ that maximizes the suitability score $S(T_i, P)$.
+$C(Screwdriver)$ = 3 
 
-### Explanation
-- **Effectiveness $E(T_i, P)$**: This function assesses how well the tool $T_i$ addresses the needs of the specific task $P$, considering its primary function.
-- **Cost $C(T_i)$**: This function measures the resource expenditure involved in using $T_i$, which might include financial cost and effort.
+Now that we have both the effectiveness and the cost of each tool, we can proceed with determining which tool is the right one for the job, meaning we are going to calculate each tool's **Suitability $S(T_i, P)$** score as follows:
 
-### Application
-This approach is useful when deciding which tool to use for specific home improvement tasks:
-- **Hammer $T_1$**: Best suited for tasks involving nailing, such as hanging pictures or assembling furniture that requires nails.
-- **Saw $T_2$**: Best suited for tasks that involve cutting materials, such as resizing wooden planks for a deck.
-- **Screwdriver $T_3$**: Best suited for tasks that involve assembling or disassembling items with screws, like installing cabinets or assembling flat-pack furniture.
-
-### Conclusion
-This formulation helps ensure that the chosen tool is the most efficient and effective for the task at hand, reflecting the practical wisdom of "using the right tool for the right job" in everyday decision-making for home improvement.
- 
-# Example
-
-Tools
-- $(T_1)$ = Hammer
-- $(T_2)$ = Saw
-- $(T_3)$ = Screwdriver
-
-Effectiveness $E(T_i, P)$
-- $E(T_1, P)$ = 10 for nailing, 0 for cutting, 0 for screwing.
-- $E(T_2, P)$ = 0 for nailing, 10 for cutting, 0 for screwing.
-- $E(T_3, P)$ = 0 for nailing, 0 for cutting, 10 for screwing.
-
-Cost $C(T_i)$ (Assuming a simple scale of 1-10):
-- $C(T_1)$ = 2 (Hammer)
-- $C(T_2)$ = 5 (Saw)
-- $C(T_3)$ = 3 (Screwdriver)
-
-### Suitability Scores Calculation
-
-The suitability function $S(T_i, P)$ is defined as:
-```math
-S(T_i, P) = \frac{E(T_i, P)}{C(T_i)}
-```
 
 #### For nailing (Using a Hammer, Saw, and Screwdriver):
 - **Hammer**:
