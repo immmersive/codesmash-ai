@@ -51,9 +51,7 @@ T \subseteq I \cup N
 ```
 (The set of true ideas exists within the union of $I$ and $N$).
 
-Human beings can only access and reason about the ideas in $I$.
-
-### **Argument**:
+Human beings can only access and reason about the ideas in $I$, which we can define as follows.
 
 1. **Possibility of Truth in $N$**: It is possible that $T \subseteq N$, meaning all true ideas about ultimate reality could reside in $N$, which is inaccessible to human cognition.
 
