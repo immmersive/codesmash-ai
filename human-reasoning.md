@@ -16,6 +16,16 @@ The answer might appear quite simple and the person might something like the fol
 
 > _**When under 0°C it is solid matter, when at room temperature it is liquid and when it is at or above 100°C it is gaseous.**_
 
+We could then suppose that we ask the same question to another people, but this time, one living at the North Pole. In this case, we might expect the following answer, assuming that it has never been hot enough for the person to observe water boiling.
+
+> _**When under 0°C it is solid matter and when at room temperature it is liquid.**_
+
+We would then turn and ask the same question to a person who has lived his whole life near the Equator and never observed cold weather or ice and get an answer similar to this.
+
+> _**When at room temperature it is liquid and when it is at or above 100°C it is gaseous.**_
+
+
+
 Regardless of human mind being material or not, the effects we see of our mind in the material world are limited by limits of computation. Certain problems are solvable when defined properly. Other problems are not solvable. Thus, in our case, we shall only focus on solvable problems. There are 2 kind of problems which are unsolvable.
 
 **Theoretically Unsolvable Problems**
