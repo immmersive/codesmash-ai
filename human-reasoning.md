@@ -13,3 +13,7 @@ Let us suppose that our task is to find the last digit of number $π$. Since acc
 # Practically Unsolvable Problems
 
 On the other hand, let us suppose that our task is to represent a number which requires $n+1$ digits to represent, where $n$ is the number of elementary particles in the universe. Since this would require more actual matter than there exists in the universe, this problem is also unsolvable. As opposed to the previous problem, had we actually had more matter at our disposal, for example, for outside of this universe, we would indeed be able to solve this problem.
+
+# Solvable Problems
+
+From here on, we will only focus on the solvable problems. These problems are solvable in principle and in practice.
