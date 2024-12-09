@@ -18,9 +18,7 @@ So, by finding out which tool (method) works well on which job (solves a problem
 So, let us now start with formalizing this statement into an axiom. We shall follow this axiom while we are coming up with new ideas.
  
 - Let $T(x)$ represent "Tool $x$ is the right tool for the job."
-
 - Let $J(y)$ represent "Job $y$ is the right job."
-
 - Let $R(x,y)$ represent "Using tool $x$ for job $y$ gives the right result."
  
 We can now proceed to transform this statement into a tautology. We shall start with making sure that using the right tool for the right job, always implies that you get the correct outcome. Thus, we shall use the following statement.
@@ -36,7 +34,6 @@ Which we formalize as
 Where: 
 
 - $T(x) ∧ J(y)$ means "Tool $x$ is the right tool and Job $y$ is the right job."
-  
 - $R(x,y)$ means "Using tool $x$ for job $y$ results in the right outcome."
 
 
@@ -52,11 +49,9 @@ We now formalize the entire statement as a logical tautology:
 (T(x)∧J(y))→((T(x)∧J(y))→R(x,y))
 ```
 
-This is a tautology because:
+**Conclusion**
 
-- The **implication** $(T(x)∧J(y))→R(x,y)$ is true by definition (as $R(x,y)$ is defined to be true whenever $T(x)∧J(y)$ is true).
-
-- The overall statement $(T(x)∧J(y))→((T(x)∧J(y))→R(x,y))$ is always true because it formalizes the idea that using the right tool for the right job leads to the right result.
+This is a tautology because the **implication** $(T(x)∧J(y))→R(x,y)$ is true by definition (as $R(x,y)$ is defined to be true whenever $T(x)∧J(y)$ is true). Also, the overall statement $(T(x)∧J(y))→((T(x)∧J(y))→R(x,y))$ is always true because it formalizes the idea that using the right tool for the right job leads to the right result.
 
 # Application of the Definition
 
@@ -64,7 +59,7 @@ Let us now assume that $P$ is a specific problem that needs to be solved. Then $
 
 The function $C(T_i)$ is a measure representing the cost when using tool $T_i$ to solve $P$. This function measures the resources required to use $T_i$, which could include monetary cost, time, labor, or other resources. Lower costs are preferable for the same level of effectiveness. Lastly the function $S(T_i, P)$ is a suitability measure which tells us how appropriate is the tool $T_i$ for solving $P$, considering both effectiveness and cost. This ratio ensures that the selected tool not only meets the problem's requirements effectively but also does so in a resource-efficient manner. The tool with the highest score $S$ is considered the most suitable, as it offers the best trade-off between effectiveness and cost.
 
-We can now define the suitability of a tool $T_i$ for a problem $P$, given the specific requirements $R_P$as:
+We can now define the suitability of a tool $T_i$ for a problem $P$, given the specific requirements $R_P$ as:
 ```math
 S(T_i, P) = \frac{E(T_i, P)}{C(T_i)}
 ```
@@ -78,32 +73,24 @@ This means choosing the tool $T_i$ from the set $T$ that maximizes the suitabili
  
 # Example
 
-We are now going to show a simple example, where our goal is to perform a simple home improvement task, like nailing planks, which is a common task in carpentry.
-
-Let $P$ be the problem of performing basic home improvement tasks. Let $T = \{ Hammer, Saw, Screwdriver \}$ be the set of tools available. Then we can measure **Effectiveness $E(T_i, P)$** and **Cost $C(T_i)$** for each tool as follows:
+We are now going to show a simple example, where our goal is to perform a simple home improvement task, like nailing planks, which is a common task in carpentry. Let $P$ be the problem of performing basic home improvement tasks. Let $T = \{ Hammer, Saw, Screwdriver \}$ be the set of tools available. Then we can measure **Effectiveness $E(T_i, P)$** and **Cost $C(T_i)$** for each tool as follows:
   
-We can then calculate the effectiveness of each tool by using the **Effectiveness $E(T_i, P)$** function as follows:
+**Effectiveness $E(T_i, P)$**
 
-$E(Hammer, P)$ = 10 for nailing, 0 for cutting, 0 for screwing.
-  
-$E(Saw, P)$ = 0 for nailing, 10 for cutting, 0 for screwing.
-  
-$E(Screwdriver, P)$ = 0 for nailing, 0 for cutting, 10 for screwing.
+- $E(Hammer, P)$ = 10 for nailing, 0 for cutting, 0 for screwing.
+- $E(Saw, P)$ = 0 for nailing, 10 for cutting, 0 for screwing.
+- $E(Screwdriver, P)$ = 0 for nailing, 0 for cutting, 10 for screwing.
 
-Furthermore, the **Cost $C(T_i)$** function then gives the the following for each tool:
+**Cost $C(T_i)$**
 
-$C(Hammer)$ = 2 
-
-$C(Saw)$ = 5 
-
-$C(Screwdriver)$ = 3 
+- $C(Hammer) = 2$
+- $C(Saw) = 5$
+- $C(Screwdriver) = 3$
 
 Now that we have both the effectiveness and the cost of each tool, we can proceed with determining which tool is the right one for the job, meaning we are going to calculate each tool's **Suitability $S(T_i, P)$** score. We are going to measure the suitability of each tool, for each of the tasks we need to perform, so for the task of hammering we have the following scores.
 
 - $S(\text{Hammer}, \text{nailing}) = \frac{10}{2} = 5$
-
 - $S(\text{Saw}, \text{nailing}) = \frac{0}{5} = 0$
-
 - $S(\text{Screwdriver}, \text{nailing}) = \frac{0}{3} = 0$
  
 
@@ -111,25 +98,19 @@ In the case of cutting task, the suitability score is as follows:
 
 
 - $S(\text{Hammer}, \text{cutting}) = \frac{0}{2} = 0$
-
 - $S(\text{Saw}, \text{cutting}) = \frac{10}{5} = 2$
-
 - $S(\text{Screwdriver}, \text{cutting}) = \frac{0}{3} = 0$
 
 In the case of driving screws, the suitability score is as follows:
 
 - $S(\text{Hammer}, \text{screwing}) = \frac{0}{2} = 0$
-
 - $S(\text{Saw}, \text{screwing}) = \frac{0}{5} = 0$
-
 - $S(\text{Screwdriver}, \text{screwing}) = \frac{10}{3} \approx 3.33$
 
 We can now conclude that for each task, the following tools are the best.
 
 - **Nailing** - The hammer has the highest suitability score of 5.
-  
 - **Cutting** - The saw has the highest suitability score of 2.
-  
 - **Screwing** - The screwdriver has the highest suitability score of approximately 3.33. 
 
 These calculations show how to quantitatively decide which tool is the most suitable for each specific task based on the concept of "using the right tool for the right job." Each tool's suitability is evaluated based on its effectiveness for the task relative to its cost, leading to the most efficient choice.
