@@ -74,6 +74,7 @@ Human beings can only access and reason about the ideas in $I$.
 \text{Therefore, humans are incapable of knowing whether the search for truth is meaningful or meaningless, because that knowledge may also reside in } N.
 ```
 
-### **Conclusion**:
-- **Radical Skepticism**: If the actual truths about ultimate reality lie in $N$, and the very way to know this lies in $N$, then human beings can neither know the truth nor know whether they are capable of knowing the truth. This renders the human pursuit of truth potentially meaningless.
+**Conclusion**
+
+If there is no way for us to confirm with absolute certainty any idea we have, then no idea can be considered ultimate truth. The only thing we can conclude from this point, is that all ideas are subject to change as our process of thinking continues.
  
