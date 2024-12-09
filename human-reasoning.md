@@ -46,6 +46,14 @@ Seeing as how human reasoning is limited in various ways, the information, based
 
 Since whatever we currently have is the best knowledge at hand, we can proceed with problem solving based on our current information. This system of reasoning is also known as the Inference to the Best Explanation. Seeing as how the problem needs to be saved and there is no other information available, this is by definition the only and also the best information to solve the problem with. It should also be clear that in many cases, this approach will not actually solve the problem, but since it is the only way we can proceed, we shall move forward from here.
 
+**Justification of Incomplete Knowledge in Problem Solving**
+
+Let us now justify the idea that we can still use incomplete knowledge to solve problems. Suppose we want to measure the area of a car tire and also a small electronics device like a transistor. It should be clear that if both objects are round we shall use the number $π$ to calculate the are of the circular area. First, we need to understand that, as we already mentioned, we don't know the exact value of number $π$ since its digits never end. But this doesn't stop us in using it.
+
+For example, when it comes to a car tire, it might actually be enough to approximate the value to $π = 3.14$ while, for more precise case, like electronics devices like a transistor, we will need to approaximate it to a value such as $π = 3.14159$ in order to have this transistor be useful.
+
+From this example, it should be easy to understand that we don't actually need absolute certainty to solve problems and that a certain idea, in this case number $π$ can be approximated, that is, represented by a completely different idea, which fits the problem, as a solution. What's more important is that if we actually take other constraints into consideration, like time constraints, using $π = 3.14159$ as the definition while calculating the area of a tire might take too long and by definition would fail as the correct idea as a solution to our problem. Thus, only the representation, that is the idea which solves the problem, is considered the right idea for the solution and this conclusion has been made using the Inference to the Best Explanation.
+
 **Conclusion**
 
 When it comes to our problem solving approach, we are going to accept the notion that we are always going to solve problems based on ideas we come up with. Seeing as how there are limits to the ideas we can have for various reasons, we are going to treat all ideas as temporary and not assign any special value to any idea a priori. There will be an open possibility on all ideas being the solution to a problem. Thus, when selecting ideas as solutions to problems, from our Main Axiom, that we should do it based on the Inference to the Best Explanation.
