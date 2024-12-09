@@ -62,14 +62,12 @@ This is a tautology because:
 
 Let us now assume that $P$ is a specific problem that needs to be solved. Then $T = \{T_1, T_2, \ldots, T_n\}$ is the set of all available tools which can be used to solve $P$. Furthermore, we can define $R_P$ as the set of constraints which limit us in how we can use the tools at our disposal in order to solve $P$. Now, we can define the function $E(T_i, P)$ as a measure, which represents the effectiveness of tool $T_i$ when applied to problem $P$. The function $C(T_i)$ is a measure representing the cost when using tool $T_i$ to solve $P$. Lastly the function $S(T_i, P)$ is a suitability measure which tells us how appropriate is the tool $T_i$ for solving $P$, considering both effectiveness and cost.
 
-### Suitability Function
-The suitability of a tool $T_i$ for a problem $P$, given the specific requirements $R_P$, is determined by:
+We can now define the suitability of a tool $T_i$ for a problem $P$, given the specific requirements $R_P$as:
 ```math
 S(T_i, P) = \frac{E(T_i, P)}{C(T_i)}
 ```
 
-### Optimization Problem
-Select the optimal tool $T^*$ such that:
+We can then define how to choose the best tool $T^*$ when using the above Suitability function:
 ```math
 T^* = \arg\max_{T_i \in T} S(T_i, P)
 ```
