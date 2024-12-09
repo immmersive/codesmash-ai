@@ -24,7 +24,7 @@ We would then turn and ask the same question to a person who has lived his whole
 
 > _**When at room temperature it is liquid and when it is at or above 100°C it is gaseous.**_
 
-
+It should be clear from these examples that the answers we get from each person is based on what they have experienced. The people who have never experienced water in its solid form can't be expected to propose that as an answer to our question, or more in general, a solution to a problem. At this point, we have to ask ourselves, what did the person who mentioned all 3 states of water, base his answer on? Its easy to understand that his answer was based on experience as well. But since that's the case, it should be easy to conclude that not even these 3 states of matter have to fully describe what water actually is, since there could be more states, which that person hasn't experienced yet.
 
 Regardless of human mind being material or not, the effects we see of our mind in the material world are limited by limits of computation. Certain problems are solvable when defined properly. Other problems are not solvable. Thus, in our case, we shall only focus on solvable problems. There are 2 kind of problems which are unsolvable.
 
