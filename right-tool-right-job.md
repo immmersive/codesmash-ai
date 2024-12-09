@@ -76,33 +76,24 @@ T^* = \arg\max_{T_i \in T} S(T_i, P)
 
 This means choosing the tool $T_i$ from the set $T$ that maximizes the suitability score $S(T_i, P)$ and we have chosen the right tool for the right job.
  
-
-### Application
-This formalization can be applied across various contexts, from engineering and software development to management and policy-making, wherever decisions need to be made about which tools or methods to employ based on specific objectives and constraints. The goal is always to achieve the highest possible effectiveness for the lowest relative cost, ensuring optimal resource utilization and outcome.
-
-This definition helps embed the practical wisdom of "using the right tool for the right job" into a clear, objective, and measurable decision-making framework, facilitating rational and efficient problem-solving across different fields and situations.
-
 # Example
 
-### Problem Statement
-**Let:**
-- $P$ be the problem of performing basic home improvement tasks.
-- $T = \{T_1, T_2, T_3\}$ be the set of tools available:
-  - $T_1$ is a hammer, ideal for driving nails.
-  - $T_2$ is a saw, used for cutting wood.
-  - $T_3$ is a screwdriver, used for driving screws.
+We are now going to show a simple example, where our goal is to perform a simple home improvement task, like nailing planks, which is a common task in carpentry.
 
-- $R_P$ be the requirements to efficiently and safely complete tasks while minimizing effort and time.
+Let $P$ be the problem of performing basic home improvement tasks.
+Let $T = \{T_1, T_2, T_3\}$ be the set of tools available, where $T_1$ is a hammer, ideal for driving nails. $T_2$ is a saw, used for cutting wood. $T_3$ is a screwdriver, used for driving screws.
 
-### Effectiveness and Cost
-- **Effectiveness $E(T_i, P)$** and **Cost $C(T_i)$** for each tool:
-  - $E(T_1, P)$: Excellent for nailing tasks, not suitable for cutting or screwing.
-  - $E(T_2, P)$: Excellent for cutting tasks, not suitable for nailing or screwing.
-  - $E(T_3, P)$: Excellent for screwing tasks, not suitable for nailing or cutting.
+Furthermore, let $R_P$ be the requirements to efficiently and safely complete tasks while minimizing effort and time.
 
-  - $C(T_1)$: Low cost.
-  - $C(T_2)$: Moderate cost.
-  - $C(T_3)$: Low cost.
+Then we can measure **Effectiveness $E(T_i, P)$** and **Cost $C(T_i)$** for each tool as follows:
+ 
+$E(T_1, P)$: Excellent for nailing tasks, not suitable for cutting or screwing.
+$E(T_2, P)$: Excellent for cutting tasks, not suitable for nailing or screwing.
+$E(T_3, P)$: Excellent for screwing tasks, not suitable for nailing or cutting.
+
+$C(T_1)$: Low cost.
+$C(T_2)$: Moderate cost.
+$C(T_3)$: Low cost.
 
 ### Suitability Function
 The suitability of each tool $T_i$ for a given task $P$, given the specific requirements $R_P$, is determined by:
