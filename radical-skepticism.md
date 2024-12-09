@@ -1,6 +1,6 @@
 # Justifying Radical Skepticism 
 
-In the following text we are going to justify the position of Radical Skepticism.
+We are going to start off by attempting to justify the position of **Radical Skepticism**.
 
 Let us imagine the following situation.
 
@@ -9,19 +9,14 @@ Let us imagine the following situation.
 Let us now analyze these propositions. The first thing we need to ask ourselves is, what does it mean to “see”?
 
 - In the most basic sense, the act of observing the world, means that the Sun’s rays hit the object in the distance, in this case, the mountain.
-  
 - The rays are then reflected of the mountain and bounce into your retina.
-  
 - Once they hit the retina, they are converted into electrical signals.
-  
 - Then, they travel down the nerves and enter the brain.
-
 - In your brain, they cause the sensation of sight.
 
 This, in short is how we perceive the world. But this also goes for our other senses, not just sight. This would mean that everything we know about the external world around us, is actually through our senses. Here we have to conclude that we are dealing with 2 different worlds.
 
 - The External World
-
 - The Internal World
 
 The external world is the world outside of our mind. The internal world is the world we experience, the world of senses inside of our mind. These are clearly 2 different world, because should it be the case that we close our eyes, the image of the world would disappear. But nobody would conclude that the external world actually disappeared. Thus, it is only the internal world which has disappeared, and it then follows, that the external and internal worlds are not one and the same. But if that is the case, then how can we say that we have any experience of the external world, since all we ever experienced is the internal world? How can we claim, that there is a 1:1 mapping between what we experience and what is outside or mind, when we have no way to confirm that?
@@ -43,12 +38,14 @@ In reality, reasoning is completely meaningless because nothing can actually be 
 Let us now suppose that there is a set I, which contains all ideas which any human mind could possibly conceive. Let us further suppose, that there is a set N, which holds all ideas that human mind is not able to hold. Let us now suppose that there exist actual truths about ultimate reality. How can we then know, that all these ideas, are not in the set N? If they are all in set N, then our search for truth is futile. Furthermore, if the way to even know whether they are in N or not, is in the set N, then we cannot even know whether we can know, whether the search for truth is meaningless or not.
  
 
-### **Definitions**:
+**Definitions**
+
 - Let $I$ represent the set of all ideas that human minds can conceive.
 - Let $N$ represent the set of all ideas that human minds cannot conceive.
 - Let $T$ represent the set of all true ideas that reflect the ultimate nature of reality.
 
-### **Assumptions**:
+**Assumptions**
+
 ```math
 T \subseteq I \cup N
 ```
@@ -58,21 +55,15 @@ Human beings can only access and reason about the ideas in $I$.
 
 ### **Argument**:
 
-1. **Possibility of Truth in $N$**:
-   - It is possible that $T \subseteq N$, meaning all true ideas about ultimate reality could reside in $N$, which is inaccessible to human cognition.
+1. **Possibility of Truth in $N$**: It is possible that $T \subseteq N$, meaning all true ideas about ultimate reality could reside in $N$, which is inaccessible to human cognition.
 
-2. **Epistemic Limitation**:
-   - If $T \subseteq N$, then no human can access or understand the true nature of reality, since no human mind can access the set $N$ by definition.
+2. **Epistemic Limitation**: If $T \subseteq N$, then no human can access or understand the true nature of reality, since no human mind can access the set $N$ by definition.
 
-3. **Meaninglessness of Truth-Seeking**:
-   - If $T \subseteq N$, then the human search for truth within the set $I$ is **meaningless**, because the actual truth lies entirely outside of what humans can conceive or reason about.
+3. **Meaninglessness of Truth-Seeking**: If $T \subseteq N$, then the human search for truth within the set $I$ is **meaningless**, because the actual truth lies entirely outside of what humans can conceive or reason about.
 
-4. **Recursive Skepticism**:
-   - The question of whether $T$ lies within $N$ or $I$ might itself be part of $N$. If the method to determine whether the ultimate truth is in $N$ or $I$ lies within $N$, humans cannot know whether they are even able to **answer** this question.
+4. **Recursive Skepticism**: The question of whether $T$ lies within $N$ or $I$ might itself be part of $N$. If the method to determine whether the ultimate truth is in $N$ or $I$ lies within $N$, humans cannot know whether they are even able to **answer** this question.
 
-```math
-\text{Therefore, humans are incapable of knowing whether the search for truth is meaningful or meaningless, because that knowledge may also reside in } N.
-```
+Therefore, humans are incapable of knowing whether the search for truth is meaningful or meaningless, because that knowledge may also reside in $N$.
 
 **Conclusion**
 
