@@ -29,13 +29,12 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 2.5 - [The Pragmatic Meaning](/pragmatic-meaning.md)
 
 ## 3. - Theoretical Models
-- 3.1 - [Patterns](/patterns.md)
-- 3.2 - [Transformation of Patterns](/transformation-patterns.md)
-- 3.3 - [Computable Functions](/computable-functions.md)
-- 3.4 - [Abstraction Models](/abstraction-models.md)
-- 3.5 - [Generalization and Specialization](/generalization-specialization.md)
-- 3.6 - Divergence and Convergence
-- 3.7 - [Thinking](/thinking.md)
+- 3.1 - [Patterns](/patterns.md) 
+- 3.2 - [Computable Functions](/computable-functions.md)
+- 3.3 - [Abstraction Models](/abstraction-models.md)
+- 3.4 - [Generalization and Specialization](/generalization-specialization.md)
+- 3.5 - Divergence and Convergence
+- 3.6 - [Thinking](/thinking.md)
 
 ## 4. - Implementation
 - 4.1 - Information and Search
