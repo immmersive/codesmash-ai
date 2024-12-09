@@ -1,6 +1,6 @@
 # Limits of Human Reasoning
  
-Seeing as how all our ideas are always subject to change, we need to be able to choose appropriate ideas for the approapriate moment.
+Seeing as how all our ideas are always subject to change, because we don't have access to absolute knowledge, then the only thing we are left with is to choose the best current knowledge to solve problems. We need to be able to choose appropriate ideas for the approapriate moment, as we have mentioned previously, our Main Axiom will guide us in choosing the correct ideas.
 
 The problem with certain approaches is that they don't recognize their limits. Thus, they think they are universally applicable. This makes them suboptimal because in certain cases, they will not solve the problem at hand. Thus we need to understand the limits of applicability of an idea in order to utilize it in the correct manner. As we have seen previously, human mind never has access to absolute truth, thus, the information we are working under are always subject to change. But this is not the only limit. The further limitation is actually limit in actual problem solving, which comes both from the human mind and in problems we can approach.
  
