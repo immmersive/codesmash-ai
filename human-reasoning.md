@@ -16,4 +16,4 @@ On the other hand, let us suppose that our task is to represent a number which r
 
 # Solvable Problems
 
-From here on, we will only focus on the solvable problems. These problems are solvable in principle and in practice.
+From here on, we will only focus on the solvable problems, which are solvable in principle and in practice. Therefore, when we say our goal is to solve all problems, we are only concerned with solvable problems as defined here.
