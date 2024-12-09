@@ -1,6 +1,6 @@
 # Use the Right Tool for the Right Job
 
-Since our goal is to be able to solve any problem, we should create a guiding principle which will always steer us in the right direction. The statement, which by definition does that, is the following one.
+Since our goal is to be able to solve any problem, we should create a guiding principle which will always steer us in the right direction. Furthermore, since we have previously accepted the stance that we can't gauge absolute truth, thus know with absolute certainty what the solution to any problem is, we are left with proposing the best one we can, based on our current knowledge. The statement, which by definition does that, is the following one.
 
 > _**Use the right tool for the right job**_
 
@@ -36,7 +36,6 @@ Where:
 - $T(x) ∧ J(y)$ means "Tool $x$ is the right tool and Job $y$ is the right job."
 - $R(x,y)$ means "Using tool $x$ for job $y$ results in the right outcome."
 
-
 To make this a **tautology**, we can define $R(x,y)$ in terms of $T(x)$ and $J(y)$. Specifically, we define $R(x,y)$ such that it **must** be true whenever $T(x)∧J(y)$ is true. This way, the statement becomes true by definition.
 
 ```math
@@ -60,11 +59,13 @@ Let us now assume that $P$ is a specific problem that needs to be solved. Then $
 The function $C(T_i)$ is a measure representing the cost when using tool $T_i$ to solve $P$. This function measures the resources required to use $T_i$, which could include monetary cost, time, labor, or other resources. Lower costs are preferable for the same level of effectiveness. Lastly the function $S(T_i, P)$ is a suitability measure which tells us how appropriate is the tool $T_i$ for solving $P$, considering both effectiveness and cost. This ratio ensures that the selected tool not only meets the problem's requirements effectively but also does so in a resource-efficient manner. The tool with the highest score $S$ is considered the most suitable, as it offers the best trade-off between effectiveness and cost.
 
 We can now define the suitability of a tool $T_i$ for a problem $P$, given the specific requirements $R_P$ as:
+
 ```math
 S(T_i, P) = \frac{E(T_i, P)}{C(T_i)}
 ```
 
 We can then define how to choose the best tool $T^*$ when using the above Suitability function:
+
 ```math
 T^* = \arg\max_{T_i \in T} S(T_i, P)
 ```
@@ -93,10 +94,8 @@ Now that we have both the effectiveness and the cost of each tool, we can procee
 - $S(\text{Saw}, \text{nailing}) = \frac{0}{5} = 0$
 - $S(\text{Screwdriver}, \text{nailing}) = \frac{0}{3} = 0$
  
-
 In the case of cutting task, the suitability score is as follows:
-
-
+ 
 - $S(\text{Hammer}, \text{cutting}) = \frac{0}{2} = 0$
 - $S(\text{Saw}, \text{cutting}) = \frac{10}{5} = 2$
 - $S(\text{Screwdriver}, \text{cutting}) = \frac{0}{3} = 0$
@@ -114,3 +113,7 @@ We can now conclude that for each task, the following tools are the best.
 - **Screwing** - The screwdriver has the highest suitability score of approximately 3.33. 
 
 These calculations show how to quantitatively decide which tool is the most suitable for each specific task based on the concept of "using the right tool for the right job." Each tool's suitability is evaluated based on its effectiveness for the task relative to its cost, leading to the most efficient choice.
+
+**Conclusion**
+
+We will be using the Main Axiom to guide every step of the investigation from now on, since as we said, its the best approach which is left to us, because we lak the ability to confirm absolute truth with absolute certainty.
