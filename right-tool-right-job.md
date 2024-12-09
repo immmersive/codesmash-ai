@@ -58,15 +58,9 @@ This is a tautology because:
 
 - The overall statement $(T(x)∧J(y))→((T(x)∧J(y))→R(x,y))$ is always true because it formalizes the idea that using the right tool for the right job leads to the right result.
 
-# Usage
+# Application of the Definition
 
-**Let:**
-- $P$ be a specific problem that needs to be solved.
-- $T = \{T_1, T_2, \ldots, T_n\}$ be the set of available tools or methods that can be applied to solve $P$.
-- $R_P$ be the set of requirements or constraints that define the successful solution of $P$.
-- $E(T_i, P)$ be a function representing the effectiveness of tool $T_i$ when applied to problem $P$.
-- $C(T_i)$ be a function representing the cost or resource consumption when using tool $T_i$ to solve $P$.
-- $S(T_i, P)$ be a suitability score that measures how appropriate tool $T_i$ is for solving $P$, considering both effectiveness and cost.
+Let us now assume that $P$ is a specific problem that needs to be solved. Then $T = \{T_1, T_2, \ldots, T_n\}$ is the set of all available tools which can be used to solve $P$. Furthermore, we can define $R_P$ as the set of constraints which limit us in how we can use the tools at our disposal in order to solve $P$. Now, we can define the function $E(T_i, P)$ as a measure, which represents the effectiveness of tool $T_i$ when applied to problem $P$. The function $C(T_i)$ is a measure representing the cost when using tool $T_i$ to solve $P$. Lastly the function $S(T_i, P)$ is a suitability measure which tells us how appropriate is the tool $T_i$ for solving $P$, considering both effectiveness and cost.
 
 ### Suitability Function
 The suitability of a tool $T_i$ for a problem $P$, given the specific requirements $R_P$, is determined by:
