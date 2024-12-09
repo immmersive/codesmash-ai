@@ -8,7 +8,7 @@ Let us imagine the following situation.
 
 Let us now analyze these propositions. The first thing we need to ask ourselves is, what does it mean to “see”?
 
-- In the most basic sense, the act of observing the world, means that the Sun’s rays hit the object in the distance, in this case, the mountain.
+- The act of observing the world, means that the Sun’s rays hit the object in the distance, in this case, the mountain.
 - The rays are then reflected of the mountain and bounce into your retina.
 - Once they hit the retina, they are converted into electrical signals.
 - Then, they travel down the nerves and enter the brain.
