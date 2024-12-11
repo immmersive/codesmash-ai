@@ -29,19 +29,20 @@ The current AI landscape, as judged by the author of this paper, is in a bubble 
 - 2.5 - [The Pragmatic Meaning](/pragmatic-meaning.md)
 
 ## 3. - Theoretical Models
-- 3.1 - [Patterns](/patterns.md) 
-- 3.2 - [Computable Functions](/computable-functions.md)
+- 3.1 - [Thinking](/thinking.md)
+- 3.2 - [Patterns](/patterns.md)  
 - 3.3 - [Abstraction Models](/abstraction-models.md)
 - 3.4 - [Generalization and Specialization](/generalization-specialization.md)
 - 3.5 - Divergence and Convergence
-- 3.6 - [Thinking](/thinking.md)
+
 
 ## 4. - Implementation
-- 4.1 - Information and Search
-- 4.2 - Algorithms and Data Structures
-- 4.3 - [The NFL Theorem](/nfl-theorem.md) 
-- 4.4 - [Metrics](/metrics.md)
-- 4.5 - Optimization
+- 4.1 - [Computable Functions](/computable-functions.md)
+- 4.2 - [Metrics](/metrics.md)
+- 4.3 - Information and Search
+- 4.4 - Algorithms and Data Structures
+- 4.5 - [The NFL Theorem](/nfl-theorem.md) 
+- 4.6 - Optimization
 
 ## 5. - Applications
 - 5.1 - [Formulating the Problem](/formulating-problem.md)
